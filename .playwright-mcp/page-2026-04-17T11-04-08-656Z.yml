@@ -1,0 +1,282 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - link "CLUB/CORE" [ref=e4] [cursor=pointer]:
+        - /url: /
+        - img "CLUB/CORE" [ref=e5]
+      - navigation [ref=e6]:
+        - link "Funktioner" [ref=e7] [cursor=pointer]:
+          - /url: "#features"
+        - link "Priser" [ref=e8] [cursor=pointer]:
+          - /url: "#pricing"
+        - link "FAQ" [ref=e9] [cursor=pointer]:
+          - /url: "#faq"
+      - link "Log ind" [ref=e10] [cursor=pointer]:
+        - /url: https://app.clubcore.dk
+  - main [ref=e11]:
+    - generic [ref=e13]:
+      - heading "Relationsdrevne fællesskaber, bygget for B2B." [level=1] [ref=e14]:
+        - text: Relationsdrevne fællesskaber,
+        - text: bygget for B2B.
+      - paragraph [ref=e15]:
+        - text: Én platform — der
+        - emphasis [ref=e16]: samler
+        - text: ","
+        - emphasis [ref=e17]: engagerer
+        - text: og
+        - emphasis [ref=e18]: skaber indsigt
+        - text: . Mindre administration. Mere engagement.
+      - generic [ref=e19]:
+        - link "Book en demo" [ref=e20] [cursor=pointer]:
+          - /url: "#book"
+        - link "Se funktioner →" [ref=e21] [cursor=pointer]:
+          - /url: "#features"
+      - paragraph [ref=e22]: GDPR-kompatibel · EU-hosting · Fleksibel kontrakt
+    - generic [ref=e24]:
+      - paragraph [ref=e25]: Du er i godt selskab
+      - generic [ref=e26]:
+        - img "BusinessVejle" [ref=e27]
+        - img "Erhvervsforum Holstebro" [ref=e28]
+    - generic [ref=e29]:
+      - generic [ref=e31]:
+        - generic [ref=e32]:
+          - paragraph [ref=e33]: Medlemsstyring
+          - heading "Medlemskaber, der kører sig selv." [level=2] [ref=e34]:
+            - text: Medlemskaber,
+            - text: der kører
+            - emphasis [ref=e35]: sig selv
+            - text: .
+          - paragraph [ref=e36]: Stamdata, kategorier, aktiviteter og betalinger — samlet ét sted og altid opdateret.
+          - list [ref=e37]:
+            - listitem [ref=e38]:
+              - img [ref=e39]
+              - text: Ubegrænsede kontakter og medlemskaber
+            - listitem [ref=e41]:
+              - img [ref=e42]
+              - text: Registrer aktiviteter og engagement
+            - listitem [ref=e44]:
+              - img [ref=e45]
+              - text: Integration til e-conomic
+            - listitem [ref=e47]:
+              - img [ref=e48]
+              - text: Åbent API
+        - img "CLUBCORE medlemsvisning" [ref=e285]
+      - generic [ref=e63]:
+        - paragraph [ref=e64]: Begivenheder
+        - heading "Fra invitation til check-in." [level=2] [ref=e65]:
+          - text: Fra invitation
+          - text: til
+          - emphasis [ref=e66]: check-in
+          - text: .
+        - paragraph [ref=e67]: Tilmeldinger, ventelister og navneskilte — håndteret automatisk, så arrangørerne kan være til stede.
+        - list [ref=e68]:
+          - listitem [ref=e69]:
+            - img [ref=e70]
+            - text: Egen tilmeldingsside med venteliste
+          - listitem [ref=e72]:
+            - img [ref=e73]
+            - text: Tilmeld som gæst og kalenderinvitation
+          - listitem [ref=e75]:
+            - img [ref=e76]
+            - text: Download deltagerliste og navneskilte
+          - listitem [ref=e78]:
+            - img [ref=e79]
+            - text: Send e-mails og SMS direkte fra platformen
+      - generic [ref=e83]:
+        - paragraph [ref=e84]: Netværksgrupper
+        - heading "Fællesskaber, der finder hinanden." [level=2] [ref=e85]:
+          - text: Fællesskaber,
+          - text: der
+          - emphasis [ref=e86]: finder hinanden
+          - text: .
+        - paragraph [ref=e87]: Egne gruppesider, opslagstavler og telefonbog — værktøjerne der holder samtalen i gang mellem møderne.
+        - list [ref=e88]:
+          - listitem [ref=e89]:
+            - img [ref=e90]
+            - text: Gruppesider med egne begivenheder
+          - listitem [ref=e92]:
+            - img [ref=e93]
+            - text: Opslagstavle og filarkiv
+          - listitem [ref=e95]:
+            - img [ref=e96]
+            - text: Telefonbog og medlemsprofiler
+          - listitem [ref=e98]:
+            - img [ref=e99]
+            - text: Målrettet kommunikation pr. gruppe
+      - generic [ref=e113]:
+        - paragraph [ref=e114]: Rapportering & indsigt
+        - heading "Data, der taler tilbage." [level=2] [ref=e115]:
+          - text: Data, der
+          - emphasis [ref=e116]: taler tilbage
+          - text: .
+        - paragraph [ref=e117]: Vækst, engagement og udmeldelsesårsager — klar til bestyrelsen og klar til handling.
+        - list [ref=e118]:
+          - listitem [ref=e119]:
+            - img [ref=e120]
+            - text: Medlemsvækst og kategorier
+          - listitem [ref=e122]:
+            - img [ref=e123]
+            - text: Engagement og medlemmer i risiko
+          - listitem [ref=e125]:
+            - img [ref=e126]
+            - text: Udmeldelsesårsager
+          - listitem [ref=e128]:
+            - img [ref=e129]
+            - text: MCP — forbind til f.eks. Claude
+    - generic [ref=e132]:
+      - generic [ref=e133]:
+        - paragraph [ref=e134]: Priser
+        - heading "Transparent prissætning. Ingen skjulte gebyrer." [level=2] [ref=e135]:
+          - text: Transparent prissætning.
+          - text: Ingen
+          - emphasis [ref=e136]: skjulte gebyrer
+          - text: .
+        - paragraph [ref=e137]: "Vælg den pakke, der passer til jeres netværk. Opstart: 4.995 kr."
+      - generic [ref=e138]:
+        - generic [ref=e139]:
+          - paragraph [ref=e140]: Medlemmer
+          - paragraph [ref=e141]: 1 – 149
+          - generic [ref=e143]:
+            - generic [ref=e144]: "9.948"
+            - generic [ref=e145]: kr. / år
+          - list [ref=e146]:
+            - listitem [ref=e147]:
+              - img [ref=e148]
+              - text: Medlemsadministration
+            - listitem [ref=e150]:
+              - img [ref=e151]
+              - text: Eventtilmelding
+            - listitem [ref=e153]:
+              - img [ref=e154]
+              - text: Netværksgrupper
+            - listitem [ref=e156]:
+              - img [ref=e157]
+              - text: Rapportering
+            - listitem [ref=e159]:
+              - img [ref=e160]
+              - text: Support via e-mail
+          - link "Book demo" [ref=e162] [cursor=pointer]:
+            - /url: "#book"
+        - generic [ref=e163]:
+          - paragraph [ref=e164]: Medlemmer
+          - paragraph [ref=e165]: 150 – 299
+          - generic [ref=e167]:
+            - generic [ref=e168]: "19.188"
+            - generic [ref=e169]: kr. / år
+          - list [ref=e170]:
+            - listitem [ref=e171]:
+              - img [ref=e172]
+              - text: Medlemsadministration
+            - listitem [ref=e174]:
+              - img [ref=e175]
+              - text: Eventtilmelding
+            - listitem [ref=e177]:
+              - img [ref=e178]
+              - text: Netværksgrupper
+            - listitem [ref=e180]:
+              - img [ref=e181]
+              - text: Rapportering
+            - listitem [ref=e183]:
+              - img [ref=e184]
+              - text: Support via e-mail
+          - link "Book demo" [ref=e186] [cursor=pointer]:
+            - /url: "#book"
+        - generic [ref=e187]:
+          - paragraph [ref=e188]: Medlemmer
+          - paragraph [ref=e189]: 300 – 499
+          - generic [ref=e191]:
+            - generic [ref=e192]: "35.988"
+            - generic [ref=e193]: kr. / år
+          - list [ref=e194]:
+            - listitem [ref=e195]:
+              - img [ref=e196]
+              - text: Medlemsadministration
+            - listitem [ref=e198]:
+              - img [ref=e199]
+              - text: Eventtilmelding
+            - listitem [ref=e201]:
+              - img [ref=e202]
+              - text: Netværksgrupper
+            - listitem [ref=e204]:
+              - img [ref=e205]
+              - text: Rapportering
+            - listitem [ref=e207]:
+              - img [ref=e208]
+              - text: Support via e-mail
+          - link "Book demo" [ref=e210] [cursor=pointer]:
+            - /url: "#book"
+        - generic [ref=e211]:
+          - paragraph [ref=e212]: Medlemmer
+          - paragraph [ref=e213]: 500 – 999
+          - generic [ref=e215]:
+            - generic [ref=e216]: "51.588"
+            - generic [ref=e217]: kr. / år
+          - list [ref=e218]:
+            - listitem [ref=e219]:
+              - img [ref=e220]
+              - text: Medlemsadministration
+            - listitem [ref=e222]:
+              - img [ref=e223]
+              - text: Eventtilmelding
+            - listitem [ref=e225]:
+              - img [ref=e226]
+              - text: Netværksgrupper
+            - listitem [ref=e228]:
+              - img [ref=e229]
+              - text: Rapportering
+            - listitem [ref=e231]:
+              - img [ref=e232]
+              - text: Support via e-mail
+          - link "Book demo" [ref=e234] [cursor=pointer]:
+            - /url: "#book"
+      - paragraph [ref=e235]:
+        - text: Mere end 1.000 medlemmer?
+        - link "Kontakt os" [ref=e236] [cursor=pointer]:
+          - /url: mailto:thomas@digitise.dk
+        - text: for et tilbud.
+    - generic [ref=e238]:
+      - generic [ref=e239]:
+        - paragraph [ref=e240]: FAQ
+        - heading "Spørgsmål." [level=2] [ref=e241]
+      - generic [ref=e242]:
+        - group [ref=e243]:
+          - generic "Hvor hurtigt kan vi komme i gang? +" [ref=e244] [cursor=pointer]
+        - group [ref=e245]:
+          - generic "Er vi bundet i en lang kontrakt? +" [ref=e246] [cursor=pointer]
+        - group [ref=e247]:
+          - generic "Er løsningen GDPR-kompatibel? +" [ref=e248] [cursor=pointer]
+        - group [ref=e249]:
+          - generic "Kan vi importere eksisterende medlemsdata? +" [ref=e250] [cursor=pointer]
+    - generic [ref=e252]:
+      - paragraph [ref=e253]: Klar?
+      - heading "Løft jeres netværk. Book en demo." [level=2] [ref=e254]:
+        - text: Løft jeres
+        - emphasis [ref=e255]: netværk
+        - text: .
+        - text: Book en demo.
+      - paragraph [ref=e256]: Gratis og uforpligtende. Se præcis, hvordan platformen passer til jeres dagligdag.
+      - generic [ref=e257]:
+        - link "Book demo" [ref=e258] [cursor=pointer]:
+          - /url: "#book"
+        - link "Kontakt os →" [ref=e259] [cursor=pointer]:
+          - /url: mailto:thomas@digitise.dk
+    - generic [ref=e261]:
+      - paragraph [ref=e262]: Book en tid
+      - heading "Se platformen i aktion." [level=2] [ref=e263]:
+        - text: Se platformen
+        - text: i
+        - emphasis [ref=e264]: aktion
+        - text: .
+      - paragraph [ref=e265]: En rundvisning der fokuserer på jeres behov — og en uforpligtende snak om mulighederne.
+      - iframe [ref=e274]:
+        
+  - contentinfo [ref=e268]:
+    - generic [ref=e269]:
+      - img "CLUB/CORE" [ref=e270]
+      - paragraph [ref=e271]:
+        - text: © 2026 CLUBCORE ·
+        - link "thomas@digitise.dk" [ref=e272] [cursor=pointer]:
+          - /url: mailto:thomas@digitise.dk
+  - button "Open Next.js Dev Tools" [ref=e280] [cursor=pointer]:
+    - img [ref=e281]
+  - alert [ref=e273]

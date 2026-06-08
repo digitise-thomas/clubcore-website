@@ -1,0 +1,310 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - generic [ref=e4]:
+        - generic [ref=e5]: fn
+        - generic [ref=e6]: HeyEmma
+      - generic [ref=e7]:
+        - generic [ref=e8]:
+          - button "DA" [ref=e9] [cursor=pointer]
+          - generic [ref=e10]: ·
+          - button "EN" [ref=e11] [cursor=pointer]
+        - button "Buy Emma" [ref=e12] [cursor=pointer]
+  - generic [ref=e14]:
+    - heading "You speak 4× faster than you type." [level=1] [ref=e16]
+    - paragraph [ref=e19]:
+      - text: Emma lives on your Mac — she listens, sees and acts.
+      - text: No browser. No login. No subscription.
+    - generic [ref=e21]:
+      - button "Buy Emma — $99" [ref=e22] [cursor=pointer]
+      - button "See what Emma can do" [ref=e23] [cursor=pointer]
+    - paragraph [ref=e25]: One-time purchase · No subscription · Your own API key
+  - generic [ref=e27]:
+    - generic [ref=e29]:
+      - generic [ref=e30]: Perfect accuracy. Every time.
+      - heading "Speak freely. Emma writes." [level=2] [ref=e31]
+      - paragraph [ref=e32]:
+        - text: Hold
+        - generic [ref=e33]: fn
+        - text: and say what you're thinking. Emma listens, cleans up and inserts the text — right where your cursor is.
+      - paragraph [ref=e34]: 4× faster than typing.
+    - generic [ref=e40]:
+      - img "macOS desktop" [ref=e42]
+      - generic:
+        - paragraph: “”
+      - generic [ref=e43]:
+        - generic [ref=e44]:
+          - generic [ref=e49]: Mail
+          - img [ref=e51]
+        - paragraph [ref=e54]
+      - button "Replay":
+        - img
+  - generic [ref=e57]:
+    - generic [ref=e63]:
+      - img "macOS desktop" [ref=e65]
+      - generic:
+        - paragraph: “”
+      - generic [ref=e66]:
+        - generic [ref=e71]: Lovable
+        - generic [ref=e73]:
+          - generic [ref=e74]: const data = await fetch("/api")
+          - generic [ref=e75]: const items = data.json()
+          - generic [ref=e77]: return items.map((i) => (
+          - generic [ref=e78]:
+            - text: <Card key=
+            - generic [ref=e79]: "{i.id}"
+            - text: />
+        - img [ref=e86]
+      - button "Replay":
+        - img
+    - generic [ref=e89]:
+      - generic [ref=e90]: Vibe Code Mode
+      - heading "You speak. Emma prompts." [level=2] [ref=e91]
+      - paragraph [ref=e92]: Say what you want to build — in your own words. Emma turns it into a precise, technical prompt the AI agent understands first time. Works with Lovable, Claude Code and any other vibe coding tool.
+      - paragraph [ref=e93]: No rewrites. No back-and-forth.
+  - generic [ref=e95]:
+    - generic [ref=e97]:
+      - generic [ref=e98]: Hey Emma AI
+      - heading "Ask freely. Get answers instantly." [level=2] [ref=e99]
+      - paragraph [ref=e100]: Say "Hey Emma" and ask your question. You get an answer directly — no browser, no login, without leaving what you're working on.
+      - paragraph [ref=e101]: AI answers in seconds.
+    - generic [ref=e107]:
+      - img "macOS desktop" [ref=e109]
+      - generic:
+        - paragraph: “”
+      - generic:
+        - generic:
+          - generic: Emma
+          - generic:
+            - img
+            - img
+        - generic:
+          - paragraph: An LLC provides limited liability protection and separates personal assets from business debts. A sole proprietorship is simpler to set up but offers no liability protection.
+      - button "Replay":
+        - img
+  - generic [ref=e111]:
+    - generic [ref=e117]:
+      - generic [ref=e118]:
+        - img "macOS desktop" [ref=e119]
+        - generic [ref=e120]:
+          - generic [ref=e125]: Budget 2026 — Numbers
+          - generic [ref=e126]:
+            - generic [ref=e127]: B7
+            - generic [ref=e128]: =SUM(B2:B6))
+          - generic [ref=e129]:
+            - generic [ref=e130]:
+              - generic [ref=e132]: A
+              - generic [ref=e133]: B
+              - generic [ref=e134]: C
+            - generic [ref=e135]:
+              - generic [ref=e136]: "1"
+              - generic [ref=e137]: Month
+              - generic [ref=e138]: Revenue
+              - generic [ref=e139]: Expense
+            - generic [ref=e140]:
+              - generic [ref=e141]: "2"
+              - generic [ref=e142]: Jan
+              - generic [ref=e143]: 45,000
+              - generic [ref=e144]: 32,000
+            - generic [ref=e145]:
+              - generic [ref=e146]: "3"
+              - generic [ref=e147]: Feb
+              - generic [ref=e148]: 52,000
+              - generic [ref=e149]: 28,000
+            - generic [ref=e150]:
+              - generic [ref=e151]: "4"
+              - generic [ref=e152]: Mar
+              - generic [ref=e153]: 48,000
+              - generic [ref=e154]: 35,000
+            - generic [ref=e155]:
+              - generic [ref=e156]: "5"
+              - generic [ref=e157]: Apr
+              - generic [ref=e158]: 61,000
+              - generic [ref=e159]: 30,000
+            - generic [ref=e160]:
+              - generic [ref=e161]: "6"
+              - generic [ref=e162]: May
+              - generic [ref=e163]: 55,000
+              - generic [ref=e164]: 33,000
+            - generic [ref=e165]:
+              - generic [ref=e166]: "7"
+              - generic [ref=e167]: Total
+              - generic [ref=e168]:
+                - img [ref=e169]
+                - text: "#ERROR"
+              - generic [ref=e171]: 158,000
+      - generic:
+        - paragraph: “”
+      - generic:
+        - generic:
+          - generic: Emma
+          - generic:
+            - img
+            - img
+        - generic:
+          - paragraph: You have an extra closing parenthesis in cell B7. Remove the last one and the formula will work.
+      - button "Replay":
+        - img
+    - generic [ref=e179]:
+      - generic [ref=e180]: Hey Emma Vision
+      - heading "Emma sees what you see." [level=2] [ref=e181]
+      - paragraph [ref=e182]: Say "Hey Emma, look at my screen" and ask anything. Emma sees exactly what you see and answers instantly — no need to explain anything.
+      - paragraph [ref=e183]: No explanation. No copy-paste. She sees it herself.
+  - generic [ref=e185]:
+    - generic [ref=e187]:
+      - generic [ref=e188]: Emma Modes
+      - heading "Switch mode. Make your own." [level=2] [ref=e189]
+      - paragraph [ref=e190]: Emma changes behavior with one click. Dictation, VibeCode, Professional — or your own.
+      - paragraph [ref=e191]: Create your own mode.
+      - paragraph [ref=e192]: Translate to English, turn into a LinkedIn post or something else — you define the prompt, Emma does the rest. Inserted right where your cursor is.
+    - generic [ref=e198]:
+      - generic [ref=e199]:
+        - img "macOS desktop" [ref=e200]
+        - generic:
+          - generic:
+            - generic: "Status: Ready"
+            - generic: "Usage: $0.28"
+            - generic:
+              - generic: "Mode: Dictation"
+              - img
+            - generic: Up to date
+            - generic: Settings…
+            - generic: History
+            - generic: Quit
+        - generic:
+          - generic:
+            - generic:
+              - generic: ✓
+              - generic: Dictation
+            - generic:
+              - generic: Vibe Code
+            - generic:
+              - generic: Professional
+        - img [ref=e202]
+      - button "Replay":
+        - img
+  - generic [ref=e206]:
+    - generic [ref=e207]: Your data
+    - heading "Your API key. No middlemen." [level=2] [ref=e208]
+    - paragraph [ref=e209]: Emma communicates directly from your Mac to OpenAI via your own API key. We store nothing, see nothing, track nothing. You have full control.
+    - paragraph [ref=e210]:
+      - text: API key? Sounds technical — it's not. 2 minutes.
+      - link "See guide →" [ref=e211] [cursor=pointer]:
+        - /url: /support#api-noegle
+  - generic [ref=e213]:
+    - generic [ref=e215]:
+      - generic [ref=e216]: We refuse to profit from your usage
+      - heading "Pay once. Use forever." [level=2] [ref=e217]
+      - paragraph [ref=e218]: No subscription. No hidden costs. Your own API key — it costs practically nothing.
+      - paragraph [ref=e219]: "Typical usage: $1–2/mo.*"
+    - generic [ref=e221]:
+      - generic [ref=e222]:
+        - heading "HeyEmma" [level=3] [ref=e223]
+        - paragraph [ref=e224]: One-time purchase — yours forever
+      - generic [ref=e225]: $99excl. VAT
+      - list [ref=e226]:
+        - listitem [ref=e227]:
+          - img [ref=e228]
+          - text: Everything included — no restrictions
+        - listitem [ref=e230]:
+          - img [ref=e231]
+          - text: Lifetime access with free updates
+        - listitem [ref=e233]:
+          - img [ref=e234]
+          - text: Your own API key (~$1–2/mo)*
+      - button "Buy Emma" [ref=e236] [cursor=pointer]
+      - paragraph [ref=e237]:
+        - text: API key? Sounds technical — it's not. 2 minutes.
+        - link "See guide →" [ref=e238] [cursor=pointer]:
+          - /url: /support#api-noegle
+      - paragraph [ref=e239]: "Requires: macOS 13+ · Apple M-chip (2020+)"
+      - paragraph [ref=e240]: "*Average usage. May vary with heavy use."
+  - generic [ref=e242]:
+    - heading "Questions" [level=2] [ref=e244]
+    - generic [ref=e246]:
+      - generic [ref=e247]:
+        - button "What is HeyEmma? +" [ref=e248] [cursor=pointer]:
+          - generic [ref=e249]: What is HeyEmma?
+          - generic [ref=e250]: +
+        - paragraph [ref=e251]: Emma lives on your Mac and is ready when you are. Hold the fn key, speak — she listens, understands and acts. Dictation, AI answers, screen vision and VibeCode in one.
+      - generic [ref=e252]:
+        - button "What does it cost? +" [ref=e253] [cursor=pointer]:
+          - generic [ref=e254]: What does it cost?
+          - generic [ref=e255]: +
+        - paragraph [ref=e256]: $99 as a one-time purchase. Beyond that, you only pay your own OpenAI API usage — typically $1–2 per month.
+      - generic [ref=e257]:
+        - button "Do I need ChatGPT Plus to get an API key? +" [ref=e258] [cursor=pointer]:
+          - generic [ref=e259]: Do I need ChatGPT Plus to get an API key?
+          - generic [ref=e260]: +
+        - paragraph [ref=e261]: No. You create a free account at platform.openai.com and only pay for your usage — typically $1–2/mo.
+      - generic [ref=e262]:
+        - button "Is it hard to set up an API key? +" [ref=e263] [cursor=pointer]:
+          - generic [ref=e264]: Is it hard to set up an API key?
+          - generic [ref=e265]: +
+        - paragraph [ref=e266]:
+          - text: No — it takes about 2 minutes. We’ve made a step-by-step guide that walks you through the entire process.
+          - link "See guide →" [ref=e267] [cursor=pointer]:
+            - /url: /support#api-noegle
+      - generic [ref=e268]:
+        - button "How do I install Emma? +" [ref=e269] [cursor=pointer]:
+          - generic [ref=e270]: How do I install Emma?
+          - generic [ref=e271]: +
+        - paragraph [ref=e272]: After purchase you download a .dmg file. Open it, drag Emma to Applications, enter your OpenAI API key — done.
+      - generic [ref=e273]:
+        - button "What is VibeCode Mode? +" [ref=e274] [cursor=pointer]:
+          - generic [ref=e275]: What is VibeCode Mode?
+          - generic [ref=e276]: +
+        - paragraph [ref=e277]: VibeCode Mode turns your thoughts into a technically optimized prompt that the agent understands first time. No confusing back-and-forth over 5–10 messages — you speak freely, Emma delivers precise instructions.
+      - generic [ref=e278]:
+        - button "Can Emma see my screen? +" [ref=e279] [cursor=pointer]:
+          - generic [ref=e280]: Can Emma see my screen?
+          - generic [ref=e281]: +
+        - paragraph [ref=e282]: Yes — but only when you ask. Emma analyzes what’s on your screen and guides you. She never looks without being asked.
+      - generic [ref=e283]:
+        - button "Is my data safe? +" [ref=e284] [cursor=pointer]:
+          - generic [ref=e285]: Is my data safe?
+          - generic [ref=e286]: +
+        - paragraph [ref=e287]: Your API key is stored locally on your Mac and sent directly to OpenAI — no servers in between. We see, store and track nothing.
+      - generic [ref=e288]:
+        - button "Does Emma work on all Macs? +" [ref=e289] [cursor=pointer]:
+          - generic [ref=e290]: Does Emma work on all Macs?
+          - generic [ref=e291]: +
+        - paragraph [ref=e292]: Emma requires macOS 13 Ventura or later and Apple M-chip — which most Macs from 2020 onward have. Older Intel Macs are not supported.
+      - generic [ref=e293]:
+        - button "Does it require internet? +" [ref=e294] [cursor=pointer]:
+          - generic [ref=e295]: Does it require internet?
+          - generic [ref=e296]: +
+        - paragraph [ref=e297]: Yes — Emma uses OpenAI’s API to understand and respond. An internet connection is required.
+  - generic [ref=e299]:
+    - generic [ref=e300]:
+      - heading "Ready to try?" [level=2] [ref=e301]
+      - paragraph [ref=e302]:
+        - text: Hold
+        - generic [ref=e303]: fn
+        - text: nede. Say it. Done.
+    - generic [ref=e304]:
+      - button "Buy Emma — $99" [ref=e305] [cursor=pointer]
+      - paragraph [ref=e306]: Pay once — yours forever.
+      - paragraph [ref=e307]: "Requirements: macOS 13+ · Apple M-chip · OpenAI API key"
+  - contentinfo [ref=e308]:
+    - generic [ref=e309]:
+      - generic [ref=e310]:
+        - text: HeyEmma
+        - generic [ref=e311]: © 2026
+      - navigation [ref=e312]:
+        - link "Privacy Policy" [ref=e313] [cursor=pointer]:
+          - /url: /privatlivspolitik
+        - link "Terms" [ref=e314] [cursor=pointer]:
+          - /url: /vilkaar
+        - link "Support" [ref=e315] [cursor=pointer]:
+          - /url: /support
+        - link "Contact" [ref=e316] [cursor=pointer]:
+          - /url: /kontakt
+  - alert [ref=e317]
+  - generic [ref=e319]:
+    - generic [ref=e320]:
+      - paragraph [ref=e321]: Use of your personal data
+      - paragraph [ref=e322]: We and our partners process your personal data (such as browser data, IP addresses, cookie information and other unique identifiers) based on your consent and/or our legitimate interest to optimize our website, marketing activities and your user experience.
+    - generic [ref=e323]:
+      - button "Customize" [ref=e324] [cursor=pointer]
+      - button "Accept all" [ref=e325] [cursor=pointer]
