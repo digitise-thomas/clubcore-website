@@ -1,15 +1,31 @@
 import type { Metadata } from "next";
-import { Inter_Tight } from 'next/font/google'
+import { Hanken_Grotesk, Instrument_Serif, Geist_Mono } from 'next/font/google'
 import "./globals.css";
-import Link from "next/link";
-import Image from "next/image";
 import { GoogleAnalytics } from '@next/third-parties/google'
+import SiteChrome from "./components/SiteChrome";
 
-const interTight = Inter_Tight({
+// Soft Nordic typography — same family stack as the Clubcore platform:
+// Instrument Serif display titles, Hanken Grotesk body, Geist Mono labels.
+const hankenGrotesk = Hanken_Grotesk({
   subsets: ['latin'],
-  variable: '--font-sans',
+  weight: ['400', '500', '600', '700', '800'],
+  variable: '--font-hanken',
   display: 'swap',
-  weight: ['300', '400', '500', '600', '700'],
+})
+
+const instrumentSerif = Instrument_Serif({
+  subsets: ['latin'],
+  weight: '400',
+  style: ['normal', 'italic'],
+  variable: '--font-instrument',
+  display: 'swap',
+})
+
+const geistMono = Geist_Mono({
+  subsets: ['latin'],
+  weight: ['400', '500'],
+  variable: '--font-geist-mono',
+  display: 'swap',
 })
 
 export const metadata: Metadata = {
@@ -23,38 +39,10 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="da" className={interTight.variable}>
-      <body className="bg-white text-black">
+    <html lang="da" className={`${hankenGrotesk.variable} ${instrumentSerif.variable} ${geistMono.variable}`}>
+      <body className="text-ink">
         <GoogleAnalytics gaId="G-KLP9KS09FC" />
-        <header className="sticky top-0 z-50 bg-white/80 backdrop-blur-md">
-          <div className="flex justify-between items-center px-6 sm:px-10 h-16">
-            <Link href="/" className="flex items-center">
-              <Image src="/clubcore-logo.png" width={260} height={65} alt="CLUB/CORE" priority className="h-7 w-auto" />
-            </Link>
-            <nav className="hidden sm:flex gap-8 text-sm text-neutral-500">
-              <Link href="#features" className="hover:text-black transition">Funktioner</Link>
-              <Link href="#pricing" className="hover:text-black transition">Priser</Link>
-              <Link href="#faq" className="hover:text-black transition">FAQ</Link>
-            </nav>
-            <a
-              href="https://app.clubcore.dk"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="btn-primary-sm"
-            >
-              Log ind
-            </a>
-          </div>
-        </header>
-        <main>{children}</main>
-        <footer className="border-t border-neutral-200 bg-white">
-          <div className="px-6 sm:px-10 py-10 flex flex-col sm:flex-row justify-between items-center gap-4 max-w-7xl mx-auto">
-            <Image src="/clubcore-logo.png" width={220} height={55} alt="CLUB/CORE" className="h-6 w-auto" />
-            <p className="text-sm text-neutral-500">
-              © 2026 CLUBCORE · <a href="mailto:thomas@digitise.dk" className="hover:text-black transition">thomas@digitise.dk</a>
-            </p>
-          </div>
-        </footer>
+        <SiteChrome>{children}</SiteChrome>
       </body>
     </html>
   );
