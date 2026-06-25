@@ -28,7 +28,7 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Erhvervsfremme i en AI-tid: Clubcore som kontekstmotor | Clubcore",
   description:
-    "En debat om kunstig intelligens omformer dansk erhvervsfremme. Læs hvorfor Clubcore understøtter den ved at levere netværkets viden til AI — frem for at bygge AI ind i platformen.",
+    "En debat om kunstig intelligens omformer dansk erhvervsfremme. Læs hvorfor Clubcore understøtter den ved at levere netværkets viden til AI - frem for at bygge AI ind i platformen.",
   authors: [{ name: "Clubcore" }],
   openGraph: {
     type: "article",
@@ -209,7 +209,7 @@ export default function AiIErhvervsfremme() {
         <div className="wrap">
           <p className="eyebrow">Holdning · AI i erhvervsfremme</p>
           <h1>Når viden bliver gratis, bliver relationen alt</h1>
-          <p className="standfirst">En debat om kunstig intelligens er ved at omforme dansk erhvervsfremme. Her er, hvorfor vi har bygget Clubcore til at understøtte den — uden at bygge AI ind i platformen.</p>
+          <p className="standfirst">En debat om kunstig intelligens er ved at omforme dansk erhvervsfremme. Her er, hvorfor vi har bygget Clubcore til at understøtte den - uden at bygge AI ind i platformen.</p>
           <div className="byline">
             <span><strong>Thomas Damkjær Larsen</strong></span>
             <span className="dot"></span>
@@ -222,43 +222,43 @@ export default function AiIErhvervsfremme() {
 
       <article>
         <div className="wrap">
-          <p>Der foregår en stille, men afgørende debat i dansk erhvervsfremme lige nu. Den handler ikke om, <em>hvorvidt</em> kunstig intelligens kommer til at ændre branchen — det er afgjort. Den handler om <em>hvad</em> der bliver tilbage af værdi, når den ændring har fundet sted. Og svaret er mere opløftende, end mange frygter.</p>
+          <p>Der foregår en stille, men afgørende debat i dansk erhvervsfremme lige nu. Den handler ikke om, <em>hvorvidt</em> kunstig intelligens kommer til at ændre branchen - det er afgjort. Den handler om <em>hvad</em> der bliver tilbage af værdi, når den ændring har fundet sted. Og svaret er mere opløftende, end mange frygter.</p>
 
           <h2>Debatten: når viden bliver billig, bliver relationen knaphedsfaktoren</h2>
-          <p><a href="https://www.sdu.dk/da/om-sdu/institutter-centre/cbe/nyheder/ai_altinget_debat" target="_blank" rel="noopener">Forskere fra Center for Bæredygtig Erhvervsfremme ved SDU</a> satte allerede for et par år siden ord på den forskydning, vi nu står midt i. Pointen er enkel og kontraintuitiv: i takt med at kunstig intelligens gør specialiseret viden hurtig og billig at hente, falder værdien af selve den viden — mens noget andet stiger i værdi. Nemlig de tætte, lokale relationer til virksomhederne.</p>
-          <p>Logikken er, at den generelle erhvervskonsulent med AI ved hånden pludselig kan trække på specialiseret viden, der før krævede en specialist på den anden side af landet. Afstanden mellem virksomhed og ekspertise skrumper. Men den viden bliver først til effekt, når et menneske, der kender virksomheden, oversætter den til den konkrete situation. Forskerne kalder det lokale erhvervskontor for <em>the human in the loop</em> — den, der sikrer, at AI-genereret viden bliver kontekstualiseret og gjort til noget, virksomheden faktisk kan handle på.</p>
+          <p><a href="https://www.sdu.dk/da/om-sdu/institutter-centre/cbe/nyheder/ai_altinget_debat" target="_blank" rel="noopener">Forskere fra Center for Bæredygtig Erhvervsfremme ved SDU</a> satte allerede for et par år siden ord på den forskydning, vi nu står midt i. Pointen er enkel og kontraintuitiv: i takt med at kunstig intelligens gør specialiseret viden hurtig og billig at hente, falder værdien af selve den viden - mens noget andet stiger i værdi. Nemlig de tætte, lokale relationer til virksomhederne.</p>
+          <p>Logikken er, at den generelle erhvervskonsulent med AI ved hånden pludselig kan trække på specialiseret viden, der før krævede en specialist på den anden side af landet. Afstanden mellem virksomhed og ekspertise skrumper. Men den viden bliver først til effekt, når et menneske, der kender virksomheden, oversætter den til den konkrete situation. Forskerne kalder det lokale erhvervskontor for <em>the human in the loop</em> - den, der sikrer, at AI-genereret viden bliver kontekstualiseret og gjort til noget, virksomheden faktisk kan handle på.</p>
           <p>Med andre ord: relationen bliver knaphedsfaktoren. Viden bliver en råvare.</p>
 
           <h2>Fremtidens erhvervsfremme er en AI-tid</h2>
-          <p>Den forskydning er ikke længere en akademisk fodnote. Den er blevet temaet for hele branchens samtale. Konferencen <a href="https://www.conferencemanager.dk/fremtidenserhvervsfremmeidanmark2026" target="_blank" rel="noopener">Fremtidens Erhvervsfremme i Danmark</a> sætter i 2026 spot på netop &quot;Erhvervsfremme i en AI-tid&quot; — hvordan teknologien forandrer snitflader og opgaveporteføljer hos aktørerne. Og <a href="https://www.danskerhvervsfremme.dk/def/def-ed/" target="_blank" rel="noopener">Erhvervsfremmedøgnet</a> stiller spørgsmålet helt skarpt: når viden bliver næsten gratis at hente gennem chatbots og agenter, hvad gør så vores organisationer relevante? Konklusionen, branchen selv lander på, er bemærkelsesværdig: tillid, dømmekraft og den gode samtale kan vise sig at være mere værdifulde end nogensinde.</p>
+          <p>Den forskydning er ikke længere en akademisk fodnote. Den er blevet temaet for hele branchens samtale. Konferencen <a href="https://www.conferencemanager.dk/fremtidenserhvervsfremmeidanmark2026" target="_blank" rel="noopener">Fremtidens Erhvervsfremme i Danmark</a> sætter i 2026 spot på netop &quot;Erhvervsfremme i en AI-tid&quot; - hvordan teknologien forandrer snitflader og opgaveporteføljer hos aktørerne. Og <a href="https://www.danskerhvervsfremme.dk/def/def-ed/" target="_blank" rel="noopener">Erhvervsfremmedøgnet</a> stiller spørgsmålet helt skarpt: når viden bliver næsten gratis at hente gennem chatbots og agenter, hvad gør så vores organisationer relevante? Konklusionen, branchen selv lander på, er bemærkelsesværdig: tillid, dømmekraft og den gode samtale kan vise sig at være mere værdifulde end nogensinde.</p>
           <p>Det er den virkelighed, vi har bygget Clubcore til at understøtte.</p>
 
-          <h2>Vores position: vi fodrer AI&apos;en — vi erstatter ikke mennesket</h2>
-          <p>Der findes to måder at møde denne udvikling på. Den ene er at bygge AI ind i sin platform og forsøge at levere rådgivningen selv. Den vej fører lige ind i den konkurrence, hvor sprogmodellerne er ved at gøre viden gratis — en kamp, ingen platform vinder i længden.</p>
-          <p>Den anden vej — vores vej — tager debatten på ordet. Hvis specialiseret viden bliver en råvare, som enhver model kan levere, så ligger den blivende værdi i det, modellen <em>ikke</em> kan få andre steder: netværkets egne relationer, medlemsprofiler, historik og tilbud. Det er den viden, et lokalt erhvervsnetværk sidder på — og som er fuldstændig usynlig for en generisk AI.</p>
-          <p>Derfor bygger vi ikke en chatbot ind i Clubcore. Vi gør Clubcore til den kontekstmotor, der leverer netværkets egen viden til de værktøjer, konsulenterne allerede bruger — ChatGPT, Claude, Copilot. Modellen leverer den generelle ekspertise. Clubcore leverer den lokale kontekst, der gør ekspertisen anvendelig for <em>denne</em> virksomhed i <em>dette</em> netværk. Og konsulenten — mennesket i loopet — træffer beslutningen og handler.</p>
+          <h2>Vores position: vi fodrer AI&apos;en - vi erstatter ikke mennesket</h2>
+          <p>Der findes to måder at møde denne udvikling på. Den ene er at bygge AI ind i sin platform og forsøge at levere rådgivningen selv. Den vej fører lige ind i den konkurrence, hvor sprogmodellerne er ved at gøre viden gratis - en kamp, ingen platform vinder i længden.</p>
+          <p>Den anden vej - vores vej - tager debatten på ordet. Hvis specialiseret viden bliver en råvare, som enhver model kan levere, så ligger den blivende værdi i det, modellen <em>ikke</em> kan få andre steder: netværkets egne relationer, medlemsprofiler, historik og tilbud. Det er den viden, et lokalt erhvervsnetværk sidder på - og som er fuldstændig usynlig for en generisk AI.</p>
+          <p>Derfor bygger vi ikke en chatbot ind i Clubcore. Vi gør Clubcore til den kontekstmotor, der leverer netværkets egen viden til de værktøjer, konsulenterne allerede bruger - ChatGPT, Claude, Copilot. Modellen leverer den generelle ekspertise. Clubcore leverer den lokale kontekst, der gør ekspertisen anvendelig for <em>denne</em> virksomhed i <em>dette</em> netværk. Og konsulenten - mennesket i loopet - træffer beslutningen og handler.</p>
 
           <p className="proof">Fire erhvervsforeninger har allerede valgt Clubcore som fundament for deres medlems- og netværksarbejde.</p>
 
           <h2>Sådan ser det ud i praksis</h2>
-          <p>Konkret betyder det, at en konsulent kan spørge sit AI-værktøj om råd til en bestemt medlemsvirksomhed og få et svar, der er jordet i netværkets virkelighed: ikke et generisk råd, men &quot;tre andre medlemmer i jeres netværk arbejder med det her&quot;, &quot;dette forløb hjalp en lignende virksomhed sidste år&quot;, &quot;her er det rigtige næste skridt&quot;. Det er kontekstualisering og operationalisering sat i system — præcis den rolle, forskerne tildeler det lokale kontor.</p>
-          <p>Og det er et kredsløb, ikke en envejsgade. AI&apos;en henter konteksten fra Clubcore og foreslår. Konsulenten validerer og handler. Handlingen logges — og bliver til ny kontekst, der gør netværket klogere næste gang. Dømmekraften bliver, hvor den hører hjemme: hos mennesket.</p>
+          <p>Konkret betyder det, at en konsulent kan spørge sit AI-værktøj om råd til en bestemt medlemsvirksomhed og få et svar, der er jordet i netværkets virkelighed: ikke et generisk råd, men &quot;tre andre medlemmer i jeres netværk arbejder med det her&quot;, &quot;dette forløb hjalp en lignende virksomhed sidste år&quot;, &quot;her er det rigtige næste skridt&quot;. Det er kontekstualisering og operationalisering sat i system - præcis den rolle, forskerne tildeler det lokale kontor.</p>
+          <p>Og det er et kredsløb, ikke en envejsgade. AI&apos;en henter konteksten fra Clubcore og foreslår. Konsulenten validerer og handler. Handlingen logges - og bliver til ny kontekst, der gør netværket klogere næste gang. Dømmekraften bliver, hvor den hører hjemme: hos mennesket.</p>
 
           <div className="pull">
             <Loop className="loop" />
-            <blockquote>AI&apos;en gør ikke mennesket overflødigt. Den gør mennesket hurtigere — <em>så længe der sidder et menneske i loopet.</em></blockquote>
+            <blockquote>AI&apos;en gør ikke mennesket overflødigt. Den gør mennesket hurtigere - <em>så længe der sidder et menneske i loopet.</em></blockquote>
           </div>
 
           <h2>Tillid er en del af produktet</h2>
-          <p>I en branche, der lever af relationer og forvalter virksomheders data, kan man ikke tale om AI uden at tale om tillid. Derfor er gennemsigtighed indbygget fra bunden: det skal altid kunne spores, hvilken viden der blev delt, hvornår og med hvem, og følsomme persondata holdes adskilt fra det, der gøres tilgængeligt for eksterne modeller. Når debatten konkluderer, at tillid bliver mere værdifuld end nogensinde, tager vi det bogstaveligt — også i arkitekturen.</p>
+          <p>I en branche, der lever af relationer og forvalter virksomheders data, kan man ikke tale om AI uden at tale om tillid. Derfor er gennemsigtighed indbygget fra bunden: det skal altid kunne spores, hvilken viden der blev delt, hvornår og med hvem, og følsomme persondata holdes adskilt fra det, der gøres tilgængeligt for eksterne modeller. Når debatten konkluderer, at tillid bliver mere værdifuld end nogensinde, tager vi det bogstaveligt - også i arkitekturen.</p>
 
           <h2>Fremtiden tilhører dem, der kender deres netværk</h2>
-          <p>Den store misforståelse om AI i erhvervsfremme er, at den gør det menneskelige overflødigt. Debatten peger på det modsatte. Når viden bliver billig, bliver det, der er svært at kopiere — relationen, tilliden, den lokale viden — det mest værdifulde, en organisation har.</p>
-          <p>Clubcores opgave er at gøre den viden tilgængelig, struktureret og brugbar, så erhvervsnetværk kan bruge energien på det, der virkelig betyder noget: fællesskabet, relationerne og væksten. Resten kan AI&apos;en hjælpe med — så længe der sidder et menneske i loopet.</p>
+          <p>Den store misforståelse om AI i erhvervsfremme er, at den gør det menneskelige overflødigt. Debatten peger på det modsatte. Når viden bliver billig, bliver det, der er svært at kopiere - relationen, tilliden, den lokale viden - det mest værdifulde, en organisation har.</p>
+          <p>Clubcores opgave er at gøre den viden tilgængelig, struktureret og brugbar, så erhvervsnetværk kan bruge energien på det, der virkelig betyder noget: fællesskabet, relationerne og væksten. Resten kan AI&apos;en hjælpe med.</p>
 
           <div className="cta">
             <h3>Vil du se, hvordan det virker?</h3>
-            <p>Vi viser gerne, hvordan Clubcore samler medlemmer, events og netværksviden ét sted — og gør den tilgængelig for de AI-værktøjer, I allerede bruger.</p>
+            <p>Vi viser gerne, hvordan Clubcore samler medlemmer, events og netværksviden ét sted - og gør den tilgængelig for de AI-værktøjer, I allerede bruger.</p>
             <a className="btn" href="https://clubcore.dk" target="_blank" rel="noopener">
               Book en demo
               <svg className="loop" viewBox="0 0 24 24" fill="none" aria-hidden="true">
@@ -271,7 +271,7 @@ export default function AiIErhvervsfremme() {
             <div className="mark">
               <Loop className="loop" />
             </div>
-            <p><strong>Skrevet af Thomas Damkjær Larsen - founderen bag Clubcore.</strong> Clubcore er en dansk SaaS-platform, der samler medlemshåndtering, events, netværksgrupper og rapportering for lokale erhvervsnetværk — med integrationer til e-conomic, Stripe og MCP-connector til ChatGPT, Claude og Copilot.</p>
+            <p><strong>Skrevet af Thomas Damkjær Larsen - founderen bag Clubcore.</strong> Clubcore er en dansk SaaS-platform, der samler medlemshåndtering, events, netværksgrupper og rapportering for lokale erhvervsnetværk - med integrationer til e-conomic, Stripe og MCP-connector til ChatGPT, Claude og Copilot.</p>
           </div>
 
           <div className="sources">
