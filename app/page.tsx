@@ -38,7 +38,7 @@ export default function Home() {
             <Image src="/businessvejle.png" alt="BusinessVejle" width={160} height={50} className="grayscale opacity-50 hover:opacity-90 transition" />
             <Image src="/holstebro.png" alt="Erhvervsforum Holstebro" width={160} height={50} className="grayscale opacity-50 hover:opacity-90 transition" />
             <Image src="/hjoerring.png" alt="Erhverv Hjørring" width={160} height={50} className="grayscale opacity-50 hover:opacity-90 transition" />
-            {/* <Image src="/varde.png" alt="ProVarde" width={160} height={50} className="grayscale opacity-50 hover:opacity-90 transition" />*/}
+            <Image src="/varde.png" alt="ProVarde" width={100} height={50} className="grayscale opacity-50 hover:opacity-90 transition" />
           </div>
         </div>
       </section>
