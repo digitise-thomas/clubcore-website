@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { Hanken_Grotesk, Instrument_Serif, Geist_Mono } from 'next/font/google'
 import "./globals.css";
 import { GoogleAnalytics } from '@next/third-parties/google'
+import Script from 'next/script'
 import SiteChrome from "./components/SiteChrome";
 
 // Soft Nordic typography — same family stack as the Clubcore platform:
@@ -42,6 +43,11 @@ export default function RootLayout({
     <html lang="da" className={`${hankenGrotesk.variable} ${instrumentSerif.variable} ${geistMono.variable}`}>
       <body className="text-ink">
         <GoogleAnalytics gaId="G-KLP9KS09FC" />
+        <Script
+          defer
+          src="https://stats.clubcore.dk/script.js"
+          data-website-id="fc5401c6-e418-4e73-a203-fbae8064e6cc"
+        />
         <SiteChrome>{children}</SiteChrome>
       </body>
     </html>
