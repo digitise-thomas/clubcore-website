@@ -1,0 +1,172 @@
+{
+  "meta": {
+    "title": "Membership Management for Business Associations | CLUBCORE",
+    "description": "Built for business associations and B2B networks. CLUBCORE brings members, events, groups and reporting together on one platform — and feeds it into the AI tools you already use."
+  },
+  "nav": {
+    "solution": "Product",
+    "ai": "AI context",
+    "pricing": "Pricing",
+    "faq": "FAQ",
+    "login": "Log in",
+    "demo": "Book a demo"
+  },
+  "hero": {
+    "eyebrow": "CRM · EVENTS · NETWORK GROUPS · REPORTING",
+    "headline": "Your network's memory.<br></br>Not another <em>chatbot</em>.",
+    "sub": "CLUBCORE brings members, events, groups and finances into one platform — and feeds it straight into ChatGPT, Claude and Copilot. Less admin for your team. More time for your members.",
+    "cta_primary": "Book a demo",
+    "cta_secondary": "See how it works →",
+    "trust": "GDPR-compliant · EU hosting · Flexible contract",
+    "device_pill": "Business network · 412 members",
+    "device_pill2": "Updated just now",
+    "device_card_title": "Member growth, 12 mo.",
+    "device_card_sub": "+38 new · 6 at risk",
+    "device_chat1": "“Which members haven't attended an event since January?”",
+    "device_chat2": "14 members, 3 in the Gold tier. Want me to draft an invite?"
+  },
+  "logos": {
+    "eyebrow": "You're in good company"
+  },
+  "problem": {
+    "eyebrow": "Sound familiar?",
+    "headline": "Your data lives in five systems.<br></br>Your AI knows none of them.",
+    "sub": "Spreadsheets for members, e-conomic for invoices, email for newsletters — and ChatGPT for everything nobody can remember. None of it talks to each other.",
+    "p1": { "title": "Scattered member data", "desc": "Core data, activities and payments live in spreadsheets and separate systems that are never in sync." },
+    "p2": { "title": "Events are manual work", "desc": "Registrations, waitlists and name badges handled by hand — event after event." },
+    "p3": { "title": "No single view", "desc": "The board asks about growth and churn. The answer isn't in one place." },
+    "p4": { "title": "Your AI doesn't know your network", "desc": "ChatGPT and Claude are great writers — but know nothing about your members unless someone feeds them manually." }
+  },
+  "ai": {
+    "eyebrow": "Context for your AI",
+    "headline": "We're not building a chatbot.<br></br>We give <moss>your</moss> AI a memory.",
+    "sub": "CLUBCORE structures your network's knowledge — members, events, groups, finances — and makes it available to the AI tools your consultants already use. No new interface to learn.",
+    "d1": "Members",
+    "d2": "Events",
+    "d3": "Groups",
+    "d4": "Finances",
+    "hub_sub": "the context layer",
+    "own_tool": "Your own tool",
+    "pt1": { "title": "Open, via MCP", "desc": "The MCP standard means your AI tool can pull context directly — no manual export." },
+    "pt2": { "title": "You own the data", "desc": "Everything is hosted in the EU. Nothing leaves your network unless you actively connect it." },
+    "pt3": { "title": "Works with what you have", "desc": "ChatGPT, Claude, Copilot or your own tool — CLUBCORE is the context layer, not another interface." }
+  },
+  "features": {
+    "f1": {
+      "eyebrow": "Member management",
+      "headline": "Memberships that <em>run themselves</em>.",
+      "desc": "Core data, categories, activities and payments — in one place, always up to date.",
+      "b1": "Unlimited contacts and memberships",
+      "b2": "Track activities and engagement",
+      "b3": "Integrates with e-conomic and Stripe",
+      "b4": "Open API",
+      "v1": "Member: Nordic Consulting",
+      "v2": "Gold"
+    },
+    "f2": {
+      "eyebrow": "Events",
+      "headline": "From invite to <em>check-in</em>.",
+      "desc": "Registrations, waitlists and name badges — handled automatically, so organizers can focus on being present.",
+      "b1": "Own registration page with waitlist",
+      "b2": "Register as a guest, get a calendar invite",
+      "b3": "Download attendee lists and name badges",
+      "b4": "Send emails and SMS straight from the platform",
+      "v1": "Annual meeting 2026 · 118 registered",
+      "v2": "✓ Waitlist active",
+      "v3": "✓ Name badges ready",
+      "v4": "✓ Calendar invite sent"
+    },
+    "f3": {
+      "eyebrow": "Network groups",
+      "headline": "Communities that <em>find each other</em>.",
+      "desc": "Group pages, boards and a member directory — the tools that keep the conversation going between meetings.",
+      "b1": "Group pages with their own events",
+      "b2": "Discussion board and file archive",
+      "b3": "Directory and member profiles",
+      "b4": "Targeted communication per group",
+      "v1": "Group: Construction West",
+      "v2": "📌 New post: Joint tender in Q3",
+      "v3": "👥 22 members in the group"
+    },
+    "f4": {
+      "eyebrow": "Reporting & insight",
+      "headline": "Data that <em>talks back</em>.",
+      "desc": "Growth, engagement and churn reasons — ready for the board and ready for action.",
+      "b1": "Member growth and categories",
+      "b2": "Engagement and at-risk members",
+      "b3": "Reasons for cancellation",
+      "b4": "MCP — connect to your AI tool",
+      "v1": "Member growth · last 12 months"
+    }
+  },
+  "process": {
+    "eyebrow": "Getting started",
+    "headline": "Live in a week.<br></br>Value from <em>day one</em>.",
+    "s1": { "tag": "Day 1", "title": "Import", "desc": "We import your member data from spreadsheets, e-conomic, or your current system." },
+    "s2": { "tag": "Day 2–3", "title": "Setup", "desc": "Categories, groups and payments configured to match your structure." },
+    "s3": { "tag": "Day 4–7", "title": "Activation", "desc": "First event created, reporting set up, AI context switched on." },
+    "s4": { "tag": "Week 2 →", "title": "Live", "desc": "The board has a full view. Consultants have context in their AI. You have time for the relationships." }
+  },
+  "article": {
+    "eyebrow": "Perspective · AI in business advocacy",
+    "headline": "When knowledge becomes free,<br></br>the <em>relationship</em> becomes everything.",
+    "sub": "That's why CLUBCORE feeds your AI tools with your network's own knowledge — instead of building another chatbot. Read why.",
+    "cta": "Read the article →"
+  },
+  "proof": {
+    "eyebrow": "From the networks",
+    "quote": "“[ Space for a quote from your first customers — a concrete result, ideally with numbers. ]”",
+    "who": "Name, title — Business network",
+    "flag": "Template — to be filled in at launch"
+  },
+  "who": {
+    "eyebrow": "For anyone who lives on relationships",
+    "headline": "Built for the <em>network</em>.<br></br>Whatever you call it.",
+    "sub": "CLUBCORE started in business advocacy — but the model fits any B2B community where relationships are the value.",
+    "c1": { "tag": "Primary audience", "title": "Business associations & chambers of commerce", "desc": "Memberships, dues, annual meetings and local networking — run by a secretariat, used by hundreds of businesses." },
+    "c2": { "title": "Trade associations", "desc": "Shared interests across an industry — with a need for groups, consultation responses and targeted communication." },
+    "c3": { "title": "Franchise & partner networks", "desc": "Central management of a network of independent units, with shared events and reporting upward." },
+    "c4": { "title": "Alumni and member clubs", "desc": "Stay in touch, long after the formal membership ends." }
+  },
+  "pricing": {
+    "eyebrow": "Pricing",
+    "headline": "Transparent pricing.<br></br>No <em>hidden fees</em>.",
+    "sub": "Choose the plan that fits your network. Setup fee: DKK 4,995.",
+    "label": "Members",
+    "unit": "DKK / year",
+    "f1": "Member administration",
+    "f2": "Event registration",
+    "f3": "Network groups",
+    "f4": "Reporting",
+    "f5": "Email support",
+    "enterprise": "More than 1,000 members? Contact us for a quote."
+  },
+  "faq": {
+    "eyebrow": "FAQ",
+    "headline": "Questions.",
+    "q1": "How quickly can we get started?",
+    "a1": "Typically 3–7 days including data import and setup.",
+    "q2": "Are we locked into a long contract?",
+    "a2": "No, the contract renews annually — with full flexibility.",
+    "q3": "Is it GDPR-compliant?",
+    "a3": "Yes — all data is hosted securely within the EU.",
+    "q4": "Can we import existing member data?",
+    "a4": "Yes, we help with import from spreadsheets, e-conomic and other systems.",
+    "q5": "What happens to our data when we connect AI tools?",
+    "a5": "Data only leaves CLUBCORE when you actively connect an AI tool via MCP. You always decide what's shared."
+  },
+  "final": {
+    "eyebrow": "Ready?",
+    "headline": "Elevate your <em>network</em>.<br></br>Book a demo.",
+    "sub": "Free and no obligation. See exactly how the platform fits your day-to-day.",
+    "contact": "Contact us →"
+  },
+  "book": {
+    "eyebrow": "Book a time",
+    "headline": "See the platform in <em>action</em>.",
+    "sub": "A walkthrough focused on your needs — and a no-obligation chat about the possibilities."
+  },
+  "footer": {
+    "copy": "© 2026 CLUBCORE"
+  }
+}

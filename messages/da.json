@@ -1,0 +1,172 @@
+{
+  "meta": {
+    "title": "Medlemsstyringssystem til erhvervsnetværk | CLUBCORE",
+    "description": "Bygget til erhvervsnetværk og business clubs. CLUBCORE samler medlemmer, events, netværksgrupper og rapportering på én platform — og fodrer det ind i de AI-værktøjer, I allerede bruger."
+  },
+  "nav": {
+    "solution": "Løsning",
+    "ai": "AI-kontekst",
+    "pricing": "Priser",
+    "faq": "FAQ",
+    "login": "Log ind",
+    "demo": "Book demo"
+  },
+  "hero": {
+    "eyebrow": "CRM · EVENTS · NETVÆRKSGRUPPER · RAPPORTERING",
+    "headline": "Jeres netværks hukommelse.<br></br>Ikke endnu en <em>chatbot</em>.",
+    "sub": "CLUBCORE samler medlemmer, events, grupper og økonomi i én platform — og fodrer det direkte ind i ChatGPT, Claude og Copilot. Mindre administration for sekretariatet. Mere tid til medlemmerne.",
+    "cta_primary": "Book en demo",
+    "cta_secondary": "Se hvordan det virker →",
+    "trust": "GDPR-kompatibel · EU-hosting · Fleksibel kontrakt",
+    "device_pill": "Erhvervsforum · 412 medlemmer",
+    "device_pill2": "Sidst opdateret nu",
+    "device_card_title": "Medlemsvækst, 12 mdr.",
+    "device_card_sub": "+38 nye · 6 i risiko",
+    "device_chat1": "“Hvilke medlemmer har ikke deltaget i et event siden januar?”",
+    "device_chat2": "14 medlemmer, 3 i kategorien Guld. Vil du udkaste en invitation?"
+  },
+  "logos": {
+    "eyebrow": "Du er i godt selskab"
+  },
+  "problem": {
+    "eyebrow": "Genkender I det?",
+    "headline": "Jeres data bor i fem systemer.<br></br>Jeres AI kender ingen af dem.",
+    "sub": "Regneark til medlemmer, e-conomic til fakturaer, mail til nyhedsbreve — og ChatGPT til alt det, ingen kan huske. Ingen af systemerne taler sammen.",
+    "p1": { "title": "Spredt medlemsdata", "desc": "Stamdata, aktiviteter og betalinger lever i regneark og separate systemer, der aldrig er opdaterede samtidig." },
+    "p2": { "title": "Events er manuel administration", "desc": "Tilmeldinger, ventelister og navneskilte styres i hånden — event for event." },
+    "p3": { "title": "Ingen samlet indsigt", "desc": "Bestyrelsen spørger om vækst og udmeldelser. Svaret findes ikke ét sted." },
+    "p4": { "title": "AI'en kender ikke jeres netværk", "desc": "ChatGPT og Claude er glimrende til at skrive — men aner intet om jeres medlemmer, medmindre nogen fodrer dem manuelt." }
+  },
+  "ai": {
+    "eyebrow": "Konteksten til jeres AI",
+    "headline": "Vi bygger ikke en chatbot.<br></br>Vi giver <moss>jeres</moss> AI hukommelse.",
+    "sub": "CLUBCORE strukturerer netværkets viden — medlemmer, events, grupper, økonomi — og gør den tilgængelig for de AI-værktøjer, konsulenterne allerede bruger. Ingen ny brugerflade at lære.",
+    "d1": "Medlemmer",
+    "d2": "Events",
+    "d3": "Grupper",
+    "d4": "Økonomi",
+    "hub_sub": "kontekst-laget",
+    "own_tool": "Jeres eget værktøj",
+    "pt1": { "title": "Åbent, via MCP", "desc": "Standardprotokollen MCP betyder, at jeres AI-værktøj kan hente kontekst direkte — uden manuel eksport." },
+    "pt2": { "title": "I ejer data", "desc": "Alt hostes i EU. Intet forlader jeres netværk, medmindre I aktivt forbinder det." },
+    "pt3": { "title": "Virker med det, I har", "desc": "ChatGPT, Claude, Copilot eller jeres eget værktøj — CLUBCORE er kontekstlaget, ikke endnu en brugerflade." }
+  },
+  "features": {
+    "f1": {
+      "eyebrow": "Medlemsstyring",
+      "headline": "Medlemskaber, der kører <em>sig selv</em>.",
+      "desc": "Stamdata, kategorier, aktiviteter og betalinger — samlet ét sted og altid opdateret.",
+      "b1": "Ubegrænsede kontakter og medlemskaber",
+      "b2": "Registrer aktiviteter og engagement",
+      "b3": "Integration til e-conomic og Stripe",
+      "b4": "Åbent API",
+      "v1": "Medlem: Nordic Consulting",
+      "v2": "Guld"
+    },
+    "f2": {
+      "eyebrow": "Begivenheder",
+      "headline": "Fra invitation til <em>check-in</em>.",
+      "desc": "Tilmeldinger, ventelister og navneskilte — håndteret automatisk, så arrangørerne kan være til stede.",
+      "b1": "Egen tilmeldingsside med venteliste",
+      "b2": "Tilmeld som gæst og kalenderinvitation",
+      "b3": "Download deltagerliste og navneskilte",
+      "b4": "Send e-mails og SMS direkte fra platformen",
+      "v1": "Årsmøde 2026 · 118 tilmeldte",
+      "v2": "✓ Venteliste aktiv",
+      "v3": "✓ Navneskilte klar",
+      "v4": "✓ Kalenderinvitation sendt"
+    },
+    "f3": {
+      "eyebrow": "Netværksgrupper",
+      "headline": "Fællesskaber, der <em>finder hinanden</em>.",
+      "desc": "Egne gruppesider, opslagstavler og telefonbog — værktøjerne der holder samtalen i gang mellem møderne.",
+      "b1": "Gruppesider med egne begivenheder",
+      "b2": "Opslagstavle og filarkiv",
+      "b3": "Telefonbog og medlemsprofiler",
+      "b4": "Målrettet kommunikation pr. gruppe",
+      "v1": "Gruppe: Bygge & Anlæg Vest",
+      "v2": "📌 Nyt opslag: Fælles udbud i Q3",
+      "v3": "👥 22 medlemmer i gruppen"
+    },
+    "f4": {
+      "eyebrow": "Rapportering & indsigt",
+      "headline": "Data, der <em>taler tilbage</em>.",
+      "desc": "Vækst, engagement og udmeldelsesårsager — klar til bestyrelsen og klar til handling.",
+      "b1": "Medlemsvækst og kategorier",
+      "b2": "Engagement og medlemmer i risiko",
+      "b3": "Udmeldelsesårsager",
+      "b4": "MCP — forbind til jeres AI-værktøj",
+      "v1": "Medlemsvækst · seneste 12 mdr."
+    }
+  },
+  "process": {
+    "eyebrow": "Sådan kommer I i gang",
+    "headline": "Live på en uge.<br></br>Værdi fra <em>dag ét</em>.",
+    "s1": { "tag": "Dag 1", "title": "Import", "desc": "Vi importerer jeres medlemsdata fra regneark, e-conomic eller jeres nuværende system." },
+    "s2": { "tag": "Dag 2–3", "title": "Opsætning", "desc": "Kategorier, grupper og betalinger konfigureres til jeres struktur." },
+    "s3": { "tag": "Dag 4–7", "title": "Aktivering", "desc": "Første event oprettes, rapportering sættes op, AI-konteksten aktiveres." },
+    "s4": { "tag": "Uge 2 →", "title": "I drift", "desc": "Bestyrelsen har overblik. Konsulenterne har kontekst i deres AI. I har tid til relationerne." }
+  },
+  "article": {
+    "eyebrow": "Holdning · AI i erhvervsfremme",
+    "headline": "Når viden bliver gratis,<br></br>bliver <em>relationen</em> alt.",
+    "sub": "Derfor fodrer CLUBCORE jeres AI-værktøjer med netværkets egen viden — i stedet for at bygge endnu en chatbot. Læs hvorfor.",
+    "cta": "Læs artiklen →"
+  },
+  "proof": {
+    "eyebrow": "Fra netværkene",
+    "quote": "“[ Plads til citat fra jeres første kunder — konkret resultat, gerne med tal. ]”",
+    "who": "Navn, titel — Erhvervsforening",
+    "flag": "Skabelon — udfyldes ved lancering"
+  },
+  "who": {
+    "eyebrow": "For enhver, der lever af relationer",
+    "headline": "Bygget til <em>netværket</em>.<br></br>Uanset hvad I kalder det.",
+    "sub": "CLUBCORE startede i erhvervsfremme — men modellen passer til ethvert B2B-fællesskab, hvor relationer er værdien.",
+    "c1": { "tag": "Primær målgruppe", "title": "Erhvervsforeninger & handelskamre", "desc": "Medlemskaber, kontingenter, årsmøder og lokalt netværk — administreret af et sekretariat, brugt af hundredvis af virksomheder." },
+    "c2": { "title": "Brancheforeninger", "desc": "Fælles interesser på tværs af en branche — med behov for grupper, høringssvar og målrettet kommunikation." },
+    "c3": { "title": "Franchise- & partnernetværk", "desc": "Central styring af et netværk af selvstændige enheder, med fælles begivenheder og rapportering opad." },
+    "c4": { "title": "Alumne- og medlemsklubber", "desc": "Hold kontakten ved lige, længe efter det formelle medlemskab er slut." }
+  },
+  "pricing": {
+    "eyebrow": "Priser",
+    "headline": "Transparent prissætning.<br></br>Ingen <em>skjulte gebyrer</em>.",
+    "sub": "Vælg den pakke, der passer til jeres netværk. Opstart: 4.995 kr.",
+    "label": "Medlemmer",
+    "unit": "kr. / år",
+    "f1": "Medlemsadministration",
+    "f2": "Eventtilmelding",
+    "f3": "Netværksgrupper",
+    "f4": "Rapportering",
+    "f5": "Support via e-mail",
+    "enterprise": "Mere end 1.000 medlemmer? Kontakt os for et tilbud."
+  },
+  "faq": {
+    "eyebrow": "FAQ",
+    "headline": "Spørgsmål.",
+    "q1": "Hvor hurtigt kan vi komme i gang?",
+    "a1": "Typisk 3–7 dage inkl. dataimport og opsætning.",
+    "q2": "Er vi bundet i en lang kontrakt?",
+    "a2": "Nej, kontrakten fornyes årligt — med fuld fleksibilitet.",
+    "q3": "Er løsningen GDPR-kompatibel?",
+    "a3": "Ja — alt data hostes sikkert inden for EU.",
+    "q4": "Kan vi importere eksisterende medlemsdata?",
+    "a4": "Ja, vi hjælper med import fra regneark, e-conomic og andre systemer.",
+    "q5": "Hvad sker der med vores data, når vi forbinder AI-værktøjer?",
+    "a5": "Data forlader kun CLUBCORE, når I aktivt forbinder et AI-værktøj via MCP. I bestemmer altid, hvad der deles."
+  },
+  "final": {
+    "eyebrow": "Klar?",
+    "headline": "Løft jeres <em>netværk</em>.<br></br>Book en demo.",
+    "sub": "Gratis og uforpligtende. Se præcis, hvordan platformen passer til jeres dagligdag.",
+    "contact": "Kontakt os →"
+  },
+  "book": {
+    "eyebrow": "Book en tid",
+    "headline": "Se platformen i <em>aktion</em>.",
+    "sub": "En rundvisning der fokuserer på jeres behov — og en uforpligtende snak om mulighederne."
+  },
+  "footer": {
+    "copy": "© 2026 CLUBCORE"
+  }
+}

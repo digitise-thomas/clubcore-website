@@ -1,0 +1,172 @@
+{
+  "meta": {
+    "title": "Mitgliederverwaltung für Wirtschaftsverbände | CLUBCORE",
+    "description": "Für Wirtschaftsverbände und B2B-Netzwerke. CLUBCORE bündelt Mitglieder, Events, Gruppen und Reporting auf einer Plattform – und speist es in die KI-Tools ein, die Sie bereits nutzen."
+  },
+  "nav": {
+    "solution": "Produkt",
+    "ai": "KI-Kontext",
+    "pricing": "Preise",
+    "faq": "FAQ",
+    "login": "Anmelden",
+    "demo": "Demo buchen"
+  },
+  "hero": {
+    "eyebrow": "CRM · EVENTS · NETZWERKGRUPPEN · REPORTING",
+    "headline": "Das Gedächtnis Ihres Netzwerks.<br></br>Kein weiterer <em>Chatbot</em>.",
+    "sub": "CLUBCORE bündelt Mitglieder, Events, Gruppen und Finanzen in einer Plattform – und speist sie direkt in ChatGPT, Claude und Copilot ein. Weniger Verwaltung für die Geschäftsstelle. Mehr Zeit für die Mitglieder.",
+    "cta_primary": "Demo buchen",
+    "cta_secondary": "So funktioniert's →",
+    "trust": "DSGVO-konform · EU-Hosting · Flexibler Vertrag",
+    "device_pill": "Wirtschaftsverband · 412 Mitglieder",
+    "device_pill2": "Gerade aktualisiert",
+    "device_card_title": "Mitgliederwachstum, 12 Mon.",
+    "device_card_sub": "+38 neu · 6 gefährdet",
+    "device_chat1": "„Welche Mitglieder waren seit Januar bei keiner Veranstaltung?“",
+    "device_chat2": "14 Mitglieder, 3 in der Kategorie Gold. Soll ich eine Einladung entwerfen?"
+  },
+  "logos": {
+    "eyebrow": "In guter Gesellschaft"
+  },
+  "problem": {
+    "eyebrow": "Kommt Ihnen bekannt vor?",
+    "headline": "Ihre Daten leben in fünf Systemen.<br></br>Ihre KI kennt keines davon.",
+    "sub": "Excel für Mitglieder, e-conomic für Rechnungen, E-Mail für Newsletter – und ChatGPT für alles, woran sich niemand erinnert. Nichts davon spricht miteinander.",
+    "p1": { "title": "Verstreute Mitgliederdaten", "desc": "Stammdaten, Aktivitäten und Zahlungen liegen in Excel-Listen und separaten Systemen, die nie synchron sind." },
+    "p2": { "title": "Events bedeuten manuelle Arbeit", "desc": "Anmeldungen, Wartelisten und Namensschilder – von Hand, Veranstaltung für Veranstaltung." },
+    "p3": { "title": "Kein Gesamtüberblick", "desc": "Der Vorstand fragt nach Wachstum und Austritten. Die Antwort liegt nicht an einem Ort." },
+    "p4": { "title": "Ihre KI kennt Ihr Netzwerk nicht", "desc": "ChatGPT und Claude schreiben hervorragend – wissen aber nichts über Ihre Mitglieder, solange niemand sie manuell füttert." }
+  },
+  "ai": {
+    "eyebrow": "Kontext für Ihre KI",
+    "headline": "Wir bauen keinen Chatbot.<br></br>Wir geben <moss>Ihrer</moss> KI ein Gedächtnis.",
+    "sub": "CLUBCORE strukturiert das Wissen Ihres Netzwerks – Mitglieder, Events, Gruppen, Finanzen – und stellt es den KI-Tools zur Verfügung, die Ihre Berater bereits nutzen. Keine neue Oberfläche zu lernen.",
+    "d1": "Mitglieder",
+    "d2": "Events",
+    "d3": "Gruppen",
+    "d4": "Finanzen",
+    "hub_sub": "die Kontextebene",
+    "own_tool": "Ihr eigenes Tool",
+    "pt1": { "title": "Offen, via MCP", "desc": "Der MCP-Standard bedeutet, dass Ihr KI-Tool den Kontext direkt abrufen kann – ohne manuellen Export." },
+    "pt2": { "title": "Sie besitzen die Daten", "desc": "Alles wird in der EU gehostet. Nichts verlässt Ihr Netzwerk, es sei denn, Sie verbinden es aktiv." },
+    "pt3": { "title": "Funktioniert mit dem, was Sie haben", "desc": "ChatGPT, Claude, Copilot oder Ihr eigenes Tool – CLUBCORE ist die Kontextebene, nicht noch eine Oberfläche." }
+  },
+  "features": {
+    "f1": {
+      "eyebrow": "Mitgliederverwaltung",
+      "headline": "Mitgliedschaften, die <em>sich selbst</em> verwalten.",
+      "desc": "Stammdaten, Kategorien, Aktivitäten und Zahlungen – an einem Ort, immer aktuell.",
+      "b1": "Unbegrenzte Kontakte und Mitgliedschaften",
+      "b2": "Aktivitäten und Engagement erfassen",
+      "b3": "Integration mit e-conomic und Stripe",
+      "b4": "Offene API",
+      "v1": "Mitglied: Nordic Consulting",
+      "v2": "Gold"
+    },
+    "f2": {
+      "eyebrow": "Veranstaltungen",
+      "headline": "Von der Einladung bis zum <em>Check-in</em>.",
+      "desc": "Anmeldungen, Wartelisten und Namensschilder – automatisch verwaltet, damit die Organisatoren präsent sein können.",
+      "b1": "Eigene Anmeldeseite mit Warteliste",
+      "b2": "Anmeldung als Gast inkl. Kalendereinladung",
+      "b3": "Teilnehmerlisten und Namensschilder herunterladen",
+      "b4": "E-Mails und SMS direkt aus der Plattform versenden",
+      "v1": "Jahrestagung 2026 · 118 Anmeldungen",
+      "v2": "✓ Warteliste aktiv",
+      "v3": "✓ Namensschilder fertig",
+      "v4": "✓ Kalendereinladung versendet"
+    },
+    "f3": {
+      "eyebrow": "Netzwerkgruppen",
+      "headline": "Gemeinschaften, die <em>zueinanderfinden</em>.",
+      "desc": "Eigene Gruppenseiten, Pinnwände und ein Mitgliederverzeichnis – die Werkzeuge, die das Gespräch zwischen den Treffen am Leben halten.",
+      "b1": "Gruppenseiten mit eigenen Veranstaltungen",
+      "b2": "Pinnwand und Dateiarchiv",
+      "b3": "Verzeichnis und Mitgliederprofile",
+      "b4": "Gezielte Kommunikation je Gruppe",
+      "v1": "Gruppe: Bau & Anlagen West",
+      "v2": "📌 Neuer Beitrag: Gemeinsame Ausschreibung Q3",
+      "v3": "👥 22 Mitglieder in der Gruppe"
+    },
+    "f4": {
+      "eyebrow": "Reporting & Einblicke",
+      "headline": "Daten, die <em>antworten</em>.",
+      "desc": "Wachstum, Engagement und Austrittsgründe – bereit für den Vorstand und bereit zum Handeln.",
+      "b1": "Mitgliederwachstum und Kategorien",
+      "b2": "Engagement und gefährdete Mitglieder",
+      "b3": "Austrittsgründe",
+      "b4": "MCP – Verbindung zu Ihrem KI-Tool",
+      "v1": "Mitgliederwachstum · letzte 12 Monate"
+    }
+  },
+  "process": {
+    "eyebrow": "So geht's los",
+    "headline": "Live in einer Woche.<br></br>Wert ab <em>Tag eins</em>.",
+    "s1": { "tag": "Tag 1", "title": "Import", "desc": "Wir importieren Ihre Mitgliederdaten aus Excel, e-conomic oder Ihrem aktuellen System." },
+    "s2": { "tag": "Tag 2–3", "title": "Einrichtung", "desc": "Kategorien, Gruppen und Zahlungen werden auf Ihre Struktur eingerichtet." },
+    "s3": { "tag": "Tag 4–7", "title": "Aktivierung", "desc": "Erste Veranstaltung angelegt, Reporting eingerichtet, KI-Kontext aktiviert." },
+    "s4": { "tag": "Woche 2 →", "title": "Im Betrieb", "desc": "Der Vorstand hat den Überblick. Berater haben Kontext in ihrer KI. Sie haben Zeit für die Beziehungen." }
+  },
+  "article": {
+    "eyebrow": "Standpunkt · KI in der Wirtschaftsförderung",
+    "headline": "Wenn Wissen kostenlos wird,<br></br>wird die <em>Beziehung</em> zu allem.",
+    "sub": "Deshalb speist CLUBCORE Ihre KI-Tools mit dem eigenen Wissen des Netzwerks – statt noch einen Chatbot zu bauen. Lesen Sie, warum.",
+    "cta": "Artikel lesen →"
+  },
+  "proof": {
+    "eyebrow": "Aus den Netzwerken",
+    "quote": "„[ Platz für ein Zitat Ihrer ersten Kunden – ein konkretes Ergebnis, idealerweise mit Zahlen. ]“",
+    "who": "Name, Titel — Wirtschaftsverband",
+    "flag": "Vorlage — wird zum Launch ergänzt"
+  },
+  "who": {
+    "eyebrow": "Für alle, die von Beziehungen leben",
+    "headline": "Gebaut für das <em>Netzwerk</em>.<br></br>Egal, wie Sie es nennen.",
+    "sub": "CLUBCORE begann in der Wirtschaftsförderung – aber das Modell passt zu jeder B2B-Gemeinschaft, in der Beziehungen den Wert ausmachen.",
+    "c1": { "tag": "Primäre Zielgruppe", "title": "Wirtschaftsverbände & Handelskammern", "desc": "Mitgliedschaften, Beiträge, Jahrestagungen und lokales Netzwerken – verwaltet von einer Geschäftsstelle, genutzt von hunderten Unternehmen." },
+    "c2": { "title": "Branchenverbände", "desc": "Gemeinsame Interessen einer Branche – mit Bedarf an Gruppen, Stellungnahmen und gezielter Kommunikation." },
+    "c3": { "title": "Franchise- & Partnernetzwerke", "desc": "Zentrale Steuerung eines Netzwerks selbstständiger Einheiten, mit gemeinsamen Veranstaltungen und Reporting nach oben." },
+    "c4": { "title": "Alumni- und Mitgliederclubs", "desc": "Bleiben Sie in Kontakt, weit über die formale Mitgliedschaft hinaus." }
+  },
+  "pricing": {
+    "eyebrow": "Preise",
+    "headline": "Transparente Preise.<br></br>Keine <em>versteckten Gebühren</em>.",
+    "sub": "Wählen Sie das Paket, das zu Ihrem Netzwerk passt. Einrichtung: 4.995 DKK.",
+    "label": "Mitglieder",
+    "unit": "DKK / Jahr",
+    "f1": "Mitgliederverwaltung",
+    "f2": "Event-Anmeldung",
+    "f3": "Netzwerkgruppen",
+    "f4": "Reporting",
+    "f5": "E-Mail-Support",
+    "enterprise": "Mehr als 1.000 Mitglieder? Kontaktieren Sie uns für ein Angebot."
+  },
+  "faq": {
+    "eyebrow": "FAQ",
+    "headline": "Fragen.",
+    "q1": "Wie schnell können wir starten?",
+    "a1": "In der Regel 3–7 Tage inkl. Datenimport und Einrichtung.",
+    "q2": "Sind wir an einen langen Vertrag gebunden?",
+    "a2": "Nein, der Vertrag verlängert sich jährlich — mit voller Flexibilität.",
+    "q3": "Ist die Lösung DSGVO-konform?",
+    "a3": "Ja — alle Daten werden sicher innerhalb der EU gehostet.",
+    "q4": "Können wir bestehende Mitgliederdaten importieren?",
+    "a4": "Ja, wir helfen beim Import aus Excel, e-conomic und anderen Systemen.",
+    "q5": "Was passiert mit unseren Daten, wenn wir KI-Tools verbinden?",
+    "a5": "Daten verlassen CLUBCORE nur, wenn Sie aktiv ein KI-Tool über MCP verbinden. Sie entscheiden immer, was geteilt wird."
+  },
+  "final": {
+    "eyebrow": "Bereit?",
+    "headline": "Heben Sie Ihr <em>Netzwerk</em>.<br></br>Demo buchen.",
+    "sub": "Kostenlos und unverbindlich. Sehen Sie genau, wie die Plattform zu Ihrem Alltag passt.",
+    "contact": "Kontakt →"
+  },
+  "book": {
+    "eyebrow": "Termin buchen",
+    "headline": "Die Plattform in <em>Aktion</em> sehen.",
+    "sub": "Eine Führung, die sich auf Ihre Bedürfnisse konzentriert — und ein unverbindliches Gespräch über die Möglichkeiten."
+  },
+  "footer": {
+    "copy": "© 2026 CLUBCORE"
+  }
+}
