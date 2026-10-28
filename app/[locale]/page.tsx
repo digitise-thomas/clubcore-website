@@ -66,6 +66,10 @@ export default function Home() {
             <Image src="/hjoerring.png" alt="Erhverv Hjørring" width={160} height={50} className="grayscale opacity-50 hover:opacity-90 transition" />
             <Image src="/varde.png" alt="ProVarde" width={100} height={50} className="grayscale opacity-50 hover:opacity-90 transition" />
             <Image src="/toender.svg" alt="Tønder Erhvervsråd" width={100} height={50} className="grayscale opacity-50 hover:opacity-90 transition" />
+            <Image src="/visitvejle.png" alt="VisitVejle" width={160} height={50} className="grayscale opacity-50 hover:opacity-90 transition" />
+            {/* NBEN: aktiveres når kontrakten foreligger
+            <Image src="/nben.png" alt="Netværk for Bæredygtig Erhvervsudvikling NordDanmark" width={200} height={50} className="grayscale opacity-50 hover:opacity-90 transition" />
+            */}
           </div>
         </div>
       </section>
