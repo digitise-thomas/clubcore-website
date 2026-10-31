@@ -1,36 +1,32 @@
 {
   "meta": {
     "title": "Membership Management for Business Associations | CLUBCORE",
-    "description": "Built for business associations and B2B networks. CLUBCORE brings members, events, groups and reporting together on one platform — and feeds it into the AI tools you already use."
+    "description": "Built for business associations and B2B networks. CLUBCORE brings members, events, groups and reporting together on one platform, feeds it into the AI tools you already use, and gives your members an app."
   },
   "nav": {
     "solution": "Product",
     "ai": "AI context",
+    "app": "The app",
     "pricing": "Pricing",
     "faq": "FAQ",
     "login": "Log in",
     "demo": "Book a demo"
   },
   "hero": {
-    "eyebrow": "CRM · EVENTS · NETWORK GROUPS · REPORTING",
-    "headline": "Your network's memory.<br></br>Not another <em>chatbot</em>.",
+    "eyebrow": "CRM · Events · Network groups · Reporting · App",
+    "headline": "Your network's memory.<br></br><em>Not another chatbot.</em>",
     "sub": "CLUBCORE brings members, events, groups and finances into one platform — and feeds it straight into ChatGPT, Claude and Copilot. Less admin for your team. More time for your members.",
     "cta_primary": "Book a demo",
-    "cta_secondary": "See how it works →",
+    "cta_secondary": "See how it works",
     "trust": "GDPR-compliant · EU hosting · Flexible contract",
-    "device_pill": "Business network · 412 members",
-    "device_pill2": "Updated just now",
-    "device_card_title": "Member growth, 12 mo.",
-    "device_card_sub": "+38 new · 6 at risk",
-    "device_chat1": "“Which members haven't attended an event since January?”",
-    "device_chat2": "14 members, 3 in the Gold tier. Want me to draft an invite?"
+    "shot_alt": "CLUBCORE dashboard with key figures, recent companies and members"
   },
   "logos": {
     "eyebrow": "You're in good company"
   },
   "problem": {
     "eyebrow": "Sound familiar?",
-    "headline": "Your data lives in five systems.<br></br>Your AI knows none of them.",
+    "headline": "Your data lives in five systems.<br></br><em>Your AI knows none of them.</em>",
     "sub": "Spreadsheets for members, e-conomic for invoices, email for newsletters — and ChatGPT for everything nobody can remember. None of it talks to each other.",
     "p1": { "title": "Scattered member data", "desc": "Core data, activities and payments live in spreadsheets and separate systems that are never in sync." },
     "p2": { "title": "Events are manual work", "desc": "Registrations, waitlists and name badges handled by hand — event after event." },
@@ -39,7 +35,7 @@
   },
   "ai": {
     "eyebrow": "Context for your AI",
-    "headline": "We're not building a chatbot.<br></br>We give <moss>your</moss> AI a memory.",
+    "headline": "We're not building a chatbot.<br></br><em>We give your AI a memory.</em>",
     "sub": "CLUBCORE structures your network's knowledge — members, events, groups, finances — and makes it available to the AI tools your consultants already use. No new interface to learn.",
     "d1": "Members",
     "d2": "Events",
@@ -54,54 +50,81 @@
   "features": {
     "f1": {
       "eyebrow": "Member management",
-      "headline": "Memberships that <em>run themselves</em>.",
+      "headline": "Memberships that run themselves.",
       "desc": "Core data, categories, activities and payments — in one place, always up to date.",
       "b1": "Unlimited contacts and memberships",
       "b2": "Track activities and engagement",
       "b3": "Integrates with e-conomic and Stripe",
       "b4": "Open API",
-      "v1": "Member: Nordic Consulting",
-      "v2": "Gold"
+      "shot_alt": "CLUBCORE member overview with filters and member cards"
     },
     "f2": {
       "eyebrow": "Events",
-      "headline": "From invite to <em>check-in</em>.",
+      "headline": "From invite to check-in.",
       "desc": "Registrations, waitlists and name badges — handled automatically, so organizers can focus on being present.",
       "b1": "Own registration page with waitlist",
       "b2": "Register as a guest, get a calendar invite",
       "b3": "Download attendee lists and name badges",
       "b4": "Send emails and SMS straight from the platform",
-      "v1": "Annual meeting 2026 · 118 registered",
-      "v2": "✓ Waitlist active",
-      "v3": "✓ Name badges ready",
-      "v4": "✓ Calendar invite sent"
+      "shot_alt": "CLUBCORE events with registrations and capacity"
     },
     "f3": {
       "eyebrow": "Network groups",
-      "headline": "Communities that <em>find each other</em>.",
+      "headline": "Communities that find each other.",
       "desc": "Group pages, boards and a member directory — the tools that keep the conversation going between meetings.",
       "b1": "Group pages with their own events",
       "b2": "Discussion board and file archive",
       "b3": "Directory and member profiles",
       "b4": "Targeted communication per group",
-      "v1": "Group: Construction West",
-      "v2": "📌 New post: Joint tender in Q3",
-      "v3": "👥 22 members in the group"
+      "shot_alt": "CLUBCORE network group with members, events and materials"
     },
     "f4": {
       "eyebrow": "Reporting & insight",
-      "headline": "Data that <em>talks back</em>.",
+      "headline": "Data that talks back.",
       "desc": "Growth, engagement and churn reasons — ready for the board and ready for action.",
       "b1": "Member growth and categories",
       "b2": "Engagement and at-risk members",
       "b3": "Reasons for cancellation",
       "b4": "MCP — connect to your AI tool",
-      "v1": "Member growth · last 12 months"
+      "shot_alt": "CLUBCORE member growth report"
+    }
+  },
+  "app": {
+    "eyebrow": "The member app",
+    "headline": "Your members get an app.<br></br><em>Your network keeps its name.</em>",
+    "sub": "vaerk is the member app for networks on CLUBCORE. Your members see events, registrations, groups and news on their phone — under your name and logo, with one sign-in for every network they belong to.",
+    "f1": { "title": "Events and registrations", "desc": "Upcoming events, registration with tickets, add-ons and guests. The ticket stays in the app." },
+    "f2": { "title": "Groups", "desc": "Members see who is in their groups and follow posts, replies and materials." },
+    "f3": { "title": "News and notifications", "desc": "A notification on the phone about new events, news and posts — sent from CLUBCORE." },
+    "f4": { "title": "One profile, one sign-in", "desc": "The profile is the same across networks. Sign-in with a code by email, no password to remember." },
+    "note": "For iPhone and Android. Members sign in with the email you registered them with.",
+    "cta": "Read more at vaerk.io",
+    "cta_secondary": "See the app in a demo",
+    "phone": {
+      "greeting": "Good morning, Mette",
+      "title": "Your networks",
+      "n1_name": "West Coast Business Forum",
+      "n1_eyebrow": "Next event · Tue 10 Nov",
+      "n1_event": "Breakfast meeting: AI in the local business",
+      "n1_meta": "07:30–09:00 · Havnen 12, Esbjerg",
+      "n1_count": "2 groups · 4 upcoming events",
+      "n2_name": "The Construction Network",
+      "n2_eyebrow": "Next event · Thu 19 Nov",
+      "n2_event": "Joint tender in Q1",
+      "n2_meta": "15:00–17:00 · Online",
+      "n2_count": "1 group · 2 upcoming events",
+      "active": "Active",
+      "registered": "Registered",
+      "open": "Open",
+      "switch": "Switch to",
+      "tab_home": "Home",
+      "tab_events": "Events",
+      "tab_groups": "Groups"
     }
   },
   "process": {
     "eyebrow": "Getting started",
-    "headline": "Live in a week.<br></br>Value from <em>day one</em>.",
+    "headline": "Live in a week.<br></br><em>Value from day one.</em>",
     "s1": { "tag": "Day 1", "title": "Import", "desc": "We import your member data from spreadsheets, e-conomic, or your current system." },
     "s2": { "tag": "Day 2–3", "title": "Setup", "desc": "Categories, groups and payments configured to match your structure." },
     "s3": { "tag": "Day 4–7", "title": "Activation", "desc": "First event created, reporting set up, AI context switched on." },
@@ -109,19 +132,13 @@
   },
   "article": {
     "eyebrow": "Perspective · AI in business advocacy",
-    "headline": "When knowledge becomes free,<br></br>the <em>relationship</em> becomes everything.",
+    "headline": "When knowledge becomes free,<br></br><em>the relationship becomes everything.</em>",
     "sub": "That's why CLUBCORE feeds your AI tools with your network's own knowledge — instead of building another chatbot. Read why.",
-    "cta": "Read the article →"
-  },
-  "proof": {
-    "eyebrow": "From the networks",
-    "quote": "“[ Space for a quote from your first customers — a concrete result, ideally with numbers. ]”",
-    "who": "Name, title — Business network",
-    "flag": "Template — to be filled in at launch"
+    "cta": "Read the article"
   },
   "who": {
     "eyebrow": "For anyone who lives on relationships",
-    "headline": "Built for the <em>network</em>.<br></br>Whatever you call it.",
+    "headline": "Built for the network.<br></br><em>Whatever you call it.</em>",
     "sub": "CLUBCORE started in business advocacy — but the model fits any B2B community where relationships are the value.",
     "c1": { "tag": "Primary audience", "title": "Business associations & chambers of commerce", "desc": "Memberships, dues, annual meetings and local networking — run by a secretariat, used by hundreds of businesses." },
     "c2": { "title": "Trade associations", "desc": "Shared interests across an industry — with a need for groups, consultation responses and targeted communication." },
@@ -130,7 +147,7 @@
   },
   "pricing": {
     "eyebrow": "Pricing",
-    "headline": "Transparent pricing.<br></br>No <em>hidden fees</em>.",
+    "headline": "Transparent pricing.<br></br><em>No hidden fees.</em>",
     "sub": "Choose the plan that fits your network. Setup fee: DKK 4,995.",
     "label": "Members",
     "unit": "DKK / year",
@@ -153,20 +170,23 @@
     "q4": "Can we import existing member data?",
     "a4": "Yes, we help with import from spreadsheets, e-conomic and other systems.",
     "q5": "What happens to our data when we connect AI tools?",
-    "a5": "Data only leaves CLUBCORE when you actively connect an AI tool via MCP. You always decide what's shared."
+    "a5": "Data only leaves CLUBCORE when you actively connect an AI tool via MCP. You always decide what's shared.",
+    "q6": "Do members have to install anything?",
+    "a6": "No. Registration pages and emails work as always. Members who want to can get the vaerk app for iPhone or Android and sign in with their email."
   },
   "final": {
     "eyebrow": "Ready?",
-    "headline": "Elevate your <em>network</em>.<br></br>Book a demo.",
+    "headline": "Elevate your network.<br></br><em>Book a demo.</em>",
     "sub": "Free and no obligation. See exactly how the platform fits your day-to-day.",
-    "contact": "Contact us →"
+    "contact": "Contact us"
   },
   "book": {
     "eyebrow": "Book a time",
-    "headline": "See the platform in <em>action</em>.",
+    "headline": "See the platform in action.",
     "sub": "A walkthrough focused on your needs — and a no-obligation chat about the possibilities."
   },
   "footer": {
-    "copy": "© 2026 CLUBCORE"
+    "copy": "© 2026 CLUBCORE",
+    "app": "vaerk – the member app"
   }
 }

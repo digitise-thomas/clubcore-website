@@ -1,36 +1,32 @@
 {
   "meta": {
     "title": "Mitgliederverwaltung für Wirtschaftsverbände | CLUBCORE",
-    "description": "Für Wirtschaftsverbände und B2B-Netzwerke. CLUBCORE bündelt Mitglieder, Events, Gruppen und Reporting auf einer Plattform – und speist es in die KI-Tools ein, die Sie bereits nutzen."
+    "description": "Für Wirtschaftsverbände und B2B-Netzwerke. CLUBCORE bündelt Mitglieder, Events, Gruppen und Reporting auf einer Plattform, speist es in die KI-Tools ein, die Sie bereits nutzen, und gibt Ihren Mitgliedern eine App."
   },
   "nav": {
     "solution": "Produkt",
     "ai": "KI-Kontext",
+    "app": "Die App",
     "pricing": "Preise",
     "faq": "FAQ",
     "login": "Anmelden",
     "demo": "Demo buchen"
   },
   "hero": {
-    "eyebrow": "CRM · EVENTS · NETZWERKGRUPPEN · REPORTING",
-    "headline": "Das Gedächtnis Ihres Netzwerks.<br></br>Kein weiterer <em>Chatbot</em>.",
+    "eyebrow": "CRM · Events · Netzwerkgruppen · Reporting · App",
+    "headline": "Das Gedächtnis Ihres Netzwerks.<br></br><em>Kein weiterer Chatbot.</em>",
     "sub": "CLUBCORE bündelt Mitglieder, Events, Gruppen und Finanzen in einer Plattform – und speist sie direkt in ChatGPT, Claude und Copilot ein. Weniger Verwaltung für die Geschäftsstelle. Mehr Zeit für die Mitglieder.",
     "cta_primary": "Demo buchen",
-    "cta_secondary": "So funktioniert's →",
+    "cta_secondary": "So funktioniert's",
     "trust": "DSGVO-konform · EU-Hosting · Flexibler Vertrag",
-    "device_pill": "Wirtschaftsverband · 412 Mitglieder",
-    "device_pill2": "Gerade aktualisiert",
-    "device_card_title": "Mitgliederwachstum, 12 Mon.",
-    "device_card_sub": "+38 neu · 6 gefährdet",
-    "device_chat1": "„Welche Mitglieder waren seit Januar bei keiner Veranstaltung?“",
-    "device_chat2": "14 Mitglieder, 3 in der Kategorie Gold. Soll ich eine Einladung entwerfen?"
+    "shot_alt": "CLUBCORE-Dashboard mit Kennzahlen, neuesten Unternehmen und Mitgliedern"
   },
   "logos": {
     "eyebrow": "In guter Gesellschaft"
   },
   "problem": {
     "eyebrow": "Kommt Ihnen bekannt vor?",
-    "headline": "Ihre Daten leben in fünf Systemen.<br></br>Ihre KI kennt keines davon.",
+    "headline": "Ihre Daten leben in fünf Systemen.<br></br><em>Ihre KI kennt keines davon.</em>",
     "sub": "Excel für Mitglieder, e-conomic für Rechnungen, E-Mail für Newsletter – und ChatGPT für alles, woran sich niemand erinnert. Nichts davon spricht miteinander.",
     "p1": { "title": "Verstreute Mitgliederdaten", "desc": "Stammdaten, Aktivitäten und Zahlungen liegen in Excel-Listen und separaten Systemen, die nie synchron sind." },
     "p2": { "title": "Events bedeuten manuelle Arbeit", "desc": "Anmeldungen, Wartelisten und Namensschilder – von Hand, Veranstaltung für Veranstaltung." },
@@ -39,7 +35,7 @@
   },
   "ai": {
     "eyebrow": "Kontext für Ihre KI",
-    "headline": "Wir bauen keinen Chatbot.<br></br>Wir geben <moss>Ihrer</moss> KI ein Gedächtnis.",
+    "headline": "Wir bauen keinen Chatbot.<br></br><em>Wir geben Ihrer KI ein Gedächtnis.</em>",
     "sub": "CLUBCORE strukturiert das Wissen Ihres Netzwerks – Mitglieder, Events, Gruppen, Finanzen – und stellt es den KI-Tools zur Verfügung, die Ihre Berater bereits nutzen. Keine neue Oberfläche zu lernen.",
     "d1": "Mitglieder",
     "d2": "Events",
@@ -54,54 +50,81 @@
   "features": {
     "f1": {
       "eyebrow": "Mitgliederverwaltung",
-      "headline": "Mitgliedschaften, die <em>sich selbst</em> verwalten.",
+      "headline": "Mitgliedschaften, die sich selbst verwalten.",
       "desc": "Stammdaten, Kategorien, Aktivitäten und Zahlungen – an einem Ort, immer aktuell.",
       "b1": "Unbegrenzte Kontakte und Mitgliedschaften",
       "b2": "Aktivitäten und Engagement erfassen",
       "b3": "Integration mit e-conomic und Stripe",
       "b4": "Offene API",
-      "v1": "Mitglied: Nordic Consulting",
-      "v2": "Gold"
+      "shot_alt": "CLUBCORE-Mitgliederübersicht mit Filtern und Mitgliederkarten"
     },
     "f2": {
       "eyebrow": "Veranstaltungen",
-      "headline": "Von der Einladung bis zum <em>Check-in</em>.",
+      "headline": "Von der Einladung bis zum Check-in.",
       "desc": "Anmeldungen, Wartelisten und Namensschilder – automatisch verwaltet, damit die Organisatoren präsent sein können.",
       "b1": "Eigene Anmeldeseite mit Warteliste",
       "b2": "Anmeldung als Gast inkl. Kalendereinladung",
       "b3": "Teilnehmerlisten und Namensschilder herunterladen",
       "b4": "E-Mails und SMS direkt aus der Plattform versenden",
-      "v1": "Jahrestagung 2026 · 118 Anmeldungen",
-      "v2": "✓ Warteliste aktiv",
-      "v3": "✓ Namensschilder fertig",
-      "v4": "✓ Kalendereinladung versendet"
+      "shot_alt": "CLUBCORE-Veranstaltungen mit Anmeldungen und Plätzen"
     },
     "f3": {
       "eyebrow": "Netzwerkgruppen",
-      "headline": "Gemeinschaften, die <em>zueinanderfinden</em>.",
+      "headline": "Gemeinschaften, die zueinanderfinden.",
       "desc": "Eigene Gruppenseiten, Pinnwände und ein Mitgliederverzeichnis – die Werkzeuge, die das Gespräch zwischen den Treffen am Leben halten.",
       "b1": "Gruppenseiten mit eigenen Veranstaltungen",
       "b2": "Pinnwand und Dateiarchiv",
       "b3": "Verzeichnis und Mitgliederprofile",
       "b4": "Gezielte Kommunikation je Gruppe",
-      "v1": "Gruppe: Bau & Anlagen West",
-      "v2": "📌 Neuer Beitrag: Gemeinsame Ausschreibung Q3",
-      "v3": "👥 22 Mitglieder in der Gruppe"
+      "shot_alt": "CLUBCORE-Netzwerkgruppe mit Mitgliedern, Veranstaltungen und Materialien"
     },
     "f4": {
       "eyebrow": "Reporting & Einblicke",
-      "headline": "Daten, die <em>antworten</em>.",
+      "headline": "Daten, die antworten.",
       "desc": "Wachstum, Engagement und Austrittsgründe – bereit für den Vorstand und bereit zum Handeln.",
       "b1": "Mitgliederwachstum und Kategorien",
       "b2": "Engagement und gefährdete Mitglieder",
       "b3": "Austrittsgründe",
       "b4": "MCP – Verbindung zu Ihrem KI-Tool",
-      "v1": "Mitgliederwachstum · letzte 12 Monate"
+      "shot_alt": "CLUBCORE-Bericht zum Mitgliederwachstum"
+    }
+  },
+  "app": {
+    "eyebrow": "Die Mitglieder-App",
+    "headline": "Ihre Mitglieder bekommen eine App.<br></br><em>Ihr Netzwerk behält seinen Namen.</em>",
+    "sub": "vaerk ist die Mitglieder-App für Netzwerke auf CLUBCORE. Ihre Mitglieder sehen Events, Anmeldungen, Gruppen und Neuigkeiten auf dem Smartphone – unter Ihrem Namen und Logo, mit einem Login für alle Netzwerke, denen sie angehören.",
+    "f1": { "title": "Events und Anmeldungen", "desc": "Kommende Events, Anmeldung mit Ticket, Zusatzleistungen und Gästen. Das Ticket bleibt in der App." },
+    "f2": { "title": "Gruppen", "desc": "Mitglieder sehen, wer in ihren Gruppen ist, und folgen Beiträgen, Antworten und Materialien." },
+    "f3": { "title": "Neuigkeiten und Benachrichtigungen", "desc": "Eine Nachricht auf dem Smartphone bei neuen Events, Neuigkeiten und Beiträgen – gesendet aus CLUBCORE." },
+    "f4": { "title": "Ein Profil, ein Login", "desc": "Das Profil ist in allen Netzwerken dasselbe. Anmeldung mit einem Code per E-Mail, kein Passwort zu merken." },
+    "note": "Für iPhone und Android. Mitglieder melden sich mit der E-Mail an, mit der Sie sie registriert haben.",
+    "cta": "Mehr auf vaerk.io",
+    "cta_secondary": "Die App in einer Demo sehen",
+    "phone": {
+      "greeting": "Guten Morgen, Mette",
+      "title": "Ihre Netzwerke",
+      "n1_name": "Wirtschaftsforum Westküste",
+      "n1_eyebrow": "Nächstes Event · Di. 10. Nov.",
+      "n1_event": "Frühstückstreffen: KI im lokalen Unternehmen",
+      "n1_meta": "07:30–09:00 · Havnen 12, Esbjerg",
+      "n1_count": "2 Gruppen · 4 kommende Events",
+      "n2_name": "Das Bau-Netzwerk",
+      "n2_eyebrow": "Nächstes Event · Do. 19. Nov.",
+      "n2_event": "Gemeinsame Ausschreibung Q1",
+      "n2_meta": "15:00–17:00 · Online",
+      "n2_count": "1 Gruppe · 2 kommende Events",
+      "active": "Aktiv",
+      "registered": "Angemeldet",
+      "open": "Öffnen",
+      "switch": "Wechseln",
+      "tab_home": "Start",
+      "tab_events": "Events",
+      "tab_groups": "Gruppen"
     }
   },
   "process": {
     "eyebrow": "So geht's los",
-    "headline": "Live in einer Woche.<br></br>Wert ab <em>Tag eins</em>.",
+    "headline": "Live in einer Woche.<br></br><em>Wert ab Tag eins.</em>",
     "s1": { "tag": "Tag 1", "title": "Import", "desc": "Wir importieren Ihre Mitgliederdaten aus Excel, e-conomic oder Ihrem aktuellen System." },
     "s2": { "tag": "Tag 2–3", "title": "Einrichtung", "desc": "Kategorien, Gruppen und Zahlungen werden auf Ihre Struktur eingerichtet." },
     "s3": { "tag": "Tag 4–7", "title": "Aktivierung", "desc": "Erste Veranstaltung angelegt, Reporting eingerichtet, KI-Kontext aktiviert." },
@@ -109,19 +132,13 @@
   },
   "article": {
     "eyebrow": "Standpunkt · KI in der Wirtschaftsförderung",
-    "headline": "Wenn Wissen kostenlos wird,<br></br>wird die <em>Beziehung</em> zu allem.",
+    "headline": "Wenn Wissen kostenlos wird,<br></br><em>wird die Beziehung zu allem.</em>",
     "sub": "Deshalb speist CLUBCORE Ihre KI-Tools mit dem eigenen Wissen des Netzwerks – statt noch einen Chatbot zu bauen. Lesen Sie, warum.",
-    "cta": "Artikel lesen →"
-  },
-  "proof": {
-    "eyebrow": "Aus den Netzwerken",
-    "quote": "„[ Platz für ein Zitat Ihrer ersten Kunden – ein konkretes Ergebnis, idealerweise mit Zahlen. ]“",
-    "who": "Name, Titel — Wirtschaftsverband",
-    "flag": "Vorlage — wird zum Launch ergänzt"
+    "cta": "Artikel lesen"
   },
   "who": {
     "eyebrow": "Für alle, die von Beziehungen leben",
-    "headline": "Gebaut für das <em>Netzwerk</em>.<br></br>Egal, wie Sie es nennen.",
+    "headline": "Gebaut für das Netzwerk.<br></br><em>Egal, wie Sie es nennen.</em>",
     "sub": "CLUBCORE begann in der Wirtschaftsförderung – aber das Modell passt zu jeder B2B-Gemeinschaft, in der Beziehungen den Wert ausmachen.",
     "c1": { "tag": "Primäre Zielgruppe", "title": "Wirtschaftsverbände & Handelskammern", "desc": "Mitgliedschaften, Beiträge, Jahrestagungen und lokales Netzwerken – verwaltet von einer Geschäftsstelle, genutzt von hunderten Unternehmen." },
     "c2": { "title": "Branchenverbände", "desc": "Gemeinsame Interessen einer Branche – mit Bedarf an Gruppen, Stellungnahmen und gezielter Kommunikation." },
@@ -130,7 +147,7 @@
   },
   "pricing": {
     "eyebrow": "Preise",
-    "headline": "Transparente Preise.<br></br>Keine <em>versteckten Gebühren</em>.",
+    "headline": "Transparente Preise.<br></br><em>Keine versteckten Gebühren.</em>",
     "sub": "Wählen Sie das Paket, das zu Ihrem Netzwerk passt. Einrichtung: 4.995 DKK.",
     "label": "Mitglieder",
     "unit": "DKK / Jahr",
@@ -153,20 +170,23 @@
     "q4": "Können wir bestehende Mitgliederdaten importieren?",
     "a4": "Ja, wir helfen beim Import aus Excel, e-conomic und anderen Systemen.",
     "q5": "Was passiert mit unseren Daten, wenn wir KI-Tools verbinden?",
-    "a5": "Daten verlassen CLUBCORE nur, wenn Sie aktiv ein KI-Tool über MCP verbinden. Sie entscheiden immer, was geteilt wird."
+    "a5": "Daten verlassen CLUBCORE nur, wenn Sie aktiv ein KI-Tool über MCP verbinden. Sie entscheiden immer, was geteilt wird.",
+    "q6": "Müssen Mitglieder etwas installieren?",
+    "a6": "Nein. Anmeldeseiten und E-Mails funktionieren wie bisher. Wer möchte, lädt die vaerk-App für iPhone oder Android und meldet sich mit seiner E-Mail an."
   },
   "final": {
     "eyebrow": "Bereit?",
-    "headline": "Heben Sie Ihr <em>Netzwerk</em>.<br></br>Demo buchen.",
+    "headline": "Heben Sie Ihr Netzwerk.<br></br><em>Demo buchen.</em>",
     "sub": "Kostenlos und unverbindlich. Sehen Sie genau, wie die Plattform zu Ihrem Alltag passt.",
-    "contact": "Kontakt →"
+    "contact": "Kontakt"
   },
   "book": {
     "eyebrow": "Termin buchen",
-    "headline": "Die Plattform in <em>Aktion</em> sehen.",
+    "headline": "Die Plattform in Aktion sehen.",
     "sub": "Eine Führung, die sich auf Ihre Bedürfnisse konzentriert — und ein unverbindliches Gespräch über die Möglichkeiten."
   },
   "footer": {
-    "copy": "© 2026 CLUBCORE"
+    "copy": "© 2026 CLUBCORE",
+    "app": "vaerk – die Mitglieder-App"
   }
 }

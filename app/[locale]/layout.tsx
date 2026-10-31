@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { Hanken_Grotesk, Instrument_Serif, Geist_Mono } from "next/font/google";
+import { Inter, Manrope } from "next/font/google";
 import "../globals.css";
 import { GoogleAnalytics } from "@next/third-parties/google";
 import Script from "next/script";
@@ -9,28 +9,22 @@ import { notFound } from "next/navigation";
 import { routing } from "@/i18n/routing";
 import SiteChrome from "../components/SiteChrome";
 
-// Soft Nordic typography — same family stack as the Clubcore platform:
-// Instrument Serif display titles, Hanken Grotesk body, Geist Mono labels.
-const hankenGrotesk = Hanken_Grotesk({
+// ClubCore Glass typography: the system stack (SF Pro on Apple devices) with
+// Inter as the fallback elsewhere — same as the platform. Not preloaded, so
+// Apple devices never download it. Manrope is only used by the vaerk mockup.
+const inter = Inter({
   subsets: ["latin"],
-  weight: ["400", "500", "600", "700", "800"],
-  variable: "--font-hanken",
+  variable: "--font-inter",
   display: "swap",
+  preload: false,
 });
 
-const instrumentSerif = Instrument_Serif({
+const manrope = Manrope({
   subsets: ["latin"],
-  weight: "400",
-  style: ["normal", "italic"],
-  variable: "--font-instrument",
+  weight: ["600", "700", "800"],
+  variable: "--font-manrope",
   display: "swap",
-});
-
-const geistMono = Geist_Mono({
-  subsets: ["latin"],
-  weight: ["400", "500"],
-  variable: "--font-geist-mono",
-  display: "swap",
+  preload: false,
 });
 
 export function generateStaticParams() {
@@ -75,11 +69,8 @@ export default async function LocaleLayout({
   setRequestLocale(locale);
 
   return (
-    <html
-      lang={locale}
-      className={`${hankenGrotesk.variable} ${instrumentSerif.variable} ${geistMono.variable}`}
-    >
-      <body className="text-ink">
+    <html lang={locale} className={`${inter.variable} ${manrope.variable}`} data-scroll-behavior="smooth">
+      <body>
         <GoogleAnalytics gaId="G-KLP9KS09FC" />
         <Script
           defer
