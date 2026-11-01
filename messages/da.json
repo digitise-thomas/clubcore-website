@@ -45,7 +45,21 @@
     "own_tool": "Jeres eget værktøj",
     "pt1": { "title": "Åbent, via MCP", "desc": "Standardprotokollen MCP betyder, at jeres AI-værktøj kan hente kontekst direkte — uden manuel eksport." },
     "pt2": { "title": "I ejer data", "desc": "Alt hostes i EU. Intet forlader jeres netværk, medmindre I aktivt forbinder det." },
-    "pt3": { "title": "Virker med det, I har", "desc": "ChatGPT, Claude, Copilot eller jeres eget værktøj — CLUBCORE er kontekstlaget, ikke endnu en brugerflade." }
+    "pt3": { "title": "Virker med det, I har", "desc": "ChatGPT, Claude, Copilot eller jeres eget værktøj — CLUBCORE er kontekstlaget, ikke endnu en brugerflade." },
+    "diagram": {
+      "aria": "Diagram: netværkets data flyder gennem CLUBCORE til jeres AI-værktøjer",
+      "groups": { "network": "Jeres netværk", "tools": "Jeres AI-værktøjer" },
+      "d1": { "name": "Medlemmer", "sub": "Stamdata og kategorier" },
+      "d2": { "name": "Events", "sub": "Tilmeldinger og deltagere" },
+      "d3": { "name": "Grupper", "sub": "Opslag og materialer" },
+      "d4": { "name": "Økonomi", "sub": "Kontingenter og fakturaer" },
+      "hub": { "name": "CLUBCORE", "sub": "Kontekst-laget" },
+      "t1": { "name": "ChatGPT", "sub": "OpenAI" },
+      "t2": { "name": "Claude", "sub": "Anthropic" },
+      "t3": { "name": "Copilot", "sub": "Microsoft 365" },
+      "t4": { "name": "Jeres eget værktøj", "sub": "Alt der taler MCP" },
+      "edges": { "e1": "Stamdata", "e2": "Tilmeldinger", "e3": "Opslag", "e4": "Fakturaer", "mcp": "MCP" }
+    }
   },
   "features": {
     "f1": {

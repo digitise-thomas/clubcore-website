@@ -45,7 +45,21 @@
     "own_tool": "Ihr eigenes Tool",
     "pt1": { "title": "Offen, via MCP", "desc": "Der MCP-Standard bedeutet, dass Ihr KI-Tool den Kontext direkt abrufen kann – ohne manuellen Export." },
     "pt2": { "title": "Sie besitzen die Daten", "desc": "Alles wird in der EU gehostet. Nichts verlässt Ihr Netzwerk, es sei denn, Sie verbinden es aktiv." },
-    "pt3": { "title": "Funktioniert mit dem, was Sie haben", "desc": "ChatGPT, Claude, Copilot oder Ihr eigenes Tool – CLUBCORE ist die Kontextebene, nicht noch eine Oberfläche." }
+    "pt3": { "title": "Funktioniert mit dem, was Sie haben", "desc": "ChatGPT, Claude, Copilot oder Ihr eigenes Tool – CLUBCORE ist die Kontextebene, nicht noch eine Oberfläche." },
+    "diagram": {
+      "aria": "Diagramm: Die Daten Ihres Netzwerks fließen über CLUBCORE in Ihre KI-Tools",
+      "groups": { "network": "Ihr Netzwerk", "tools": "Ihre KI-Tools" },
+      "d1": { "name": "Mitglieder", "sub": "Stammdaten und Kategorien" },
+      "d2": { "name": "Events", "sub": "Anmeldungen und Teilnehmer" },
+      "d3": { "name": "Gruppen", "sub": "Beiträge und Materialien" },
+      "d4": { "name": "Finanzen", "sub": "Beiträge und Rechnungen" },
+      "hub": { "name": "CLUBCORE", "sub": "Die Kontextebene" },
+      "t1": { "name": "ChatGPT", "sub": "OpenAI" },
+      "t2": { "name": "Claude", "sub": "Anthropic" },
+      "t3": { "name": "Copilot", "sub": "Microsoft 365" },
+      "t4": { "name": "Ihr eigenes Tool", "sub": "Alles, was MCP spricht" },
+      "edges": { "e1": "Stammdaten", "e2": "Anmeldungen", "e3": "Beiträge", "e4": "Rechnungen", "mcp": "MCP" }
+    }
   },
   "features": {
     "f1": {

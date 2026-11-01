@@ -45,7 +45,21 @@
     "own_tool": "Your own tool",
     "pt1": { "title": "Open, via MCP", "desc": "The MCP standard means your AI tool can pull context directly — no manual export." },
     "pt2": { "title": "You own the data", "desc": "Everything is hosted in the EU. Nothing leaves your network unless you actively connect it." },
-    "pt3": { "title": "Works with what you have", "desc": "ChatGPT, Claude, Copilot or your own tool — CLUBCORE is the context layer, not another interface." }
+    "pt3": { "title": "Works with what you have", "desc": "ChatGPT, Claude, Copilot or your own tool — CLUBCORE is the context layer, not another interface." },
+    "diagram": {
+      "aria": "Diagram: your network's data flows through CLUBCORE to your AI tools",
+      "groups": { "network": "Your network", "tools": "Your AI tools" },
+      "d1": { "name": "Members", "sub": "Core data and categories" },
+      "d2": { "name": "Events", "sub": "Registrations and attendees" },
+      "d3": { "name": "Groups", "sub": "Posts and materials" },
+      "d4": { "name": "Finances", "sub": "Dues and invoices" },
+      "hub": { "name": "CLUBCORE", "sub": "The context layer" },
+      "t1": { "name": "ChatGPT", "sub": "OpenAI" },
+      "t2": { "name": "Claude", "sub": "Anthropic" },
+      "t3": { "name": "Copilot", "sub": "Microsoft 365" },
+      "t4": { "name": "Your own tool", "sub": "Anything that speaks MCP" },
+      "edges": { "e1": "Core data", "e2": "Registrations", "e3": "Posts", "e4": "Invoices", "mcp": "MCP" }
+    }
   },
   "features": {
     "f1": {

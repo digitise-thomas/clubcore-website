@@ -18,6 +18,7 @@ import {
   Users,
 } from "lucide-react";
 import CalendlyClient from "../components/CalendlyClient";
+import ContextDiagram from "../components/ContextDiagram";
 
 // Headlines are two-tone: the first thought in ink, the second (<em>) in ink-muted.
 const rich = {
@@ -172,7 +173,7 @@ export default function Home_() {
         <div className="mx-auto mt-14 max-w-6xl">
           <div className="shot">
             <div>
-              <Image src="/glass/dashboard.jpg" alt={tHero("shot_alt")} width={1512} height={770} priority className="h-auto w-full" />
+              <Image src="/glass/dashboard-v2.jpg" alt={tHero("shot_alt")} width={1456} height={800} priority className="h-auto w-full" />
             </div>
           </div>
         </div>
@@ -217,22 +218,29 @@ export default function Home_() {
       <section id="ai" className="scroll-mt-28 px-5 py-20 sm:py-28">
         <SectionHead t={tAi} />
 
-        <div className="card mx-auto mt-14 max-w-5xl p-6 sm:p-10">
-          <div className="grid grid-cols-1 items-center gap-8 md:grid-cols-[1fr_auto_1fr]">
-            <div className="flex flex-row flex-wrap items-center justify-center gap-2.5 md:flex-col md:items-end">
+        {/* Desktop: architecture-style diagram. Mobile: the three stacked groups. */}
+        <div className="mx-auto mt-14 hidden max-w-6xl lg:block">
+          <ContextDiagram />
+        </div>
+        <div className="mx-auto mt-14 hidden max-w-4xl md:block lg:hidden">
+          <ContextDiagram compact />
+        </div>
+        <div className="card mx-auto mt-12 max-w-5xl p-6 md:hidden">
+          <div className="grid grid-cols-1 items-center gap-6">
+            <div className="flex flex-row flex-wrap items-center justify-center gap-2.5">
               {(["d1", "d2", "d3", "d4"] as const).map((key) => (
                 <span key={key} className="pill-choice">{tAi(key)}</span>
               ))}
             </div>
-            <div className="flex flex-row items-center justify-center gap-4 md:flex-col">
-              <ArrowRight className="rotate-90 text-ink-faint md:rotate-0" size={22} />
-              <div className="tile tile-ink flex h-32 w-32 flex-col items-center justify-center gap-1 rounded-full text-center shadow-button sm:h-36 sm:w-36">
+            <div className="flex flex-row items-center justify-center gap-4">
+              <ArrowRight className="rotate-90 text-ink-faint" size={22} />
+              <div className="tile tile-ink flex h-32 w-32 flex-col items-center justify-center gap-1 rounded-full text-center shadow-button">
                 <b className="text-[13px] font-bold tracking-[0.12em]">CLUBCORE</b>
                 <span className="max-w-24 text-[11px] leading-tight text-white/60">{tAi("hub_sub")}</span>
               </div>
-              <ArrowRight className="rotate-90 text-ink-faint md:rotate-0" size={22} />
+              <ArrowRight className="rotate-90 text-ink-faint" size={22} />
             </div>
-            <div className="flex flex-row flex-wrap items-center justify-center gap-2.5 md:flex-col md:items-start">
+            <div className="flex flex-row flex-wrap items-center justify-center gap-2.5">
               <span className="pill-choice pill-choice-on">ChatGPT</span>
               <span className="pill-choice pill-choice-on">Claude</span>
               <span className="pill-choice pill-choice-on">Copilot</span>
